@@ -1,0 +1,5322 @@
+[
+  {
+    "type": "Revelio",
+    "key": "LORE_LibraryAnnex_DivinationObject",
+    "video": "na_PmDfcgs8",
+    "time": 183,
+    "region": "The Library Annex",
+    "index": 4
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_ViaductEntrance_TECH_X=357028 Y=-465384 Z=-82611",
+    "video": "na_PmDfcgs8",
+    "time": 66,
+    "region": "The Library Annex",
+    "index": 1
+  },
+  {
+    "type": "ArithmancyChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_CentralTower_TECH_X=354736 Y=-466325 Z=-82099",
+    "video": "na_PmDfcgs8",
+    "time": 97,
+    "region": "The Library Annex",
+    "index": 3
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_CentralTower_ArithmancyClass",
+    "video": "na_PmDfcgs8",
+    "time": 137,
+    "region": "The Library Annex",
+    "index": 3
+  },
+  {
+    "type": "ArithmancyChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_CentralTower_TECH_X=354557 Y=-465687 Z=-81900",
+    "video": "na_PmDfcgs8",
+    "time": 144,
+    "region": "The Library Annex",
+    "index": 4
+  },
+  {
+    "type": "ArithmancyChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_CentralTower_TECH_X=353458 Y=-465381 Z=-81900",
+    "video": "na_PmDfcgs8",
+    "time": 165,
+    "region": "The Library Annex",
+    "index": 5
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Viaducts_SirCadogan",
+    "video": "na_PmDfcgs8",
+    "time": 89,
+    "region": "The Library Annex",
+    "index": 2
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_CentralHall_TECH_X=352735 Y=-464401 Z=-85295",
+    "video": "na_PmDfcgs8",
+    "time": 266,
+    "region": "The Library Annex",
+    "index": 7
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_CentralHall_TECH_X=354424 Y=-466938 Z=-84890",
+    "video": "na_PmDfcgs8",
+    "time": 223,
+    "region": "The Library Annex",
+    "index": 5
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_CentralTower_Fountain",
+    "video": "na_PmDfcgs8",
+    "time": 260,
+    "region": "The Library Annex",
+    "index": 6
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected105551651389",
+    "video": "na_PmDfcgs8",
+    "time": 772,
+    "region": "The Library Annex",
+    "index": 20
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Greenhouse_CentralTree",
+    "video": "na_PmDfcgs8",
+    "time": 608,
+    "region": "The Library Annex",
+    "index": 14
+  },
+  {
+    "type": "Brazier",
+    "key": "PageCollected264370971199",
+    "video": "na_PmDfcgs8",
+    "time": 551,
+    "region": "The Library Annex",
+    "index": 12
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_Library_TECH_X=350873 Y=-467521 Z=-84996",
+    "video": "na_PmDfcgs8",
+    "time": 631,
+    "region": "The Library Annex",
+    "index": 16
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected166076061103",
+    "video": "na_PmDfcgs8",
+    "time": 666,
+    "region": "The Library Annex",
+    "index": 17
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Library_ViolentBooks",
+    "video": "na_PmDfcgs8",
+    "time": 712,
+    "region": "The Library Annex",
+    "index": 18
+  },
+  {
+    "type": "Statue",
+    "key": "PageCollected137663553412",
+    "video": "na_PmDfcgs8",
+    "time": 754,
+    "region": "The Library Annex",
+    "index": 19
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_GryffTower_Gregory",
+    "video": "na_PmDfcgs8",
+    "time": 271,
+    "region": "The Library Annex",
+    "index": 8
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_EntranceHall_AurorBadge",
+    "video": "na_PmDfcgs8",
+    "time": 279,
+    "region": "The Library Annex",
+    "index": 9
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_Wandskin_SUB_ViaductBridge_TECH_X=360710 Y=-462801 Z=-84278",
+    "video": "na_PmDfcgs8",
+    "time": 10,
+    "region": "The Library Annex",
+    "index": 1
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_ViaductBridge_TECH_X=361615 Y=-461303 Z=-84279",
+    "video": "na_PmDfcgs8",
+    "time": 62,
+    "region": "The Library Annex",
+    "index": 2
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected24368892884",
+    "video": "na_PmDfcgs8",
+    "time": 499,
+    "region": "The Library Annex",
+    "index": 10
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_EntranceHall_MedusaPainting",
+    "video": "na_PmDfcgs8",
+    "time": 525,
+    "region": "The Library Annex",
+    "index": 11
+  },
+  {
+    "type": "ArithmancyChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_LongGallery_TECH_X=348622 Y=-466342 Z=-86543",
+    "video": "na_PmDfcgs8",
+    "time": 548,
+    "region": "The Library Annex",
+    "index": 7
+  },
+  {
+    "type": "Statue",
+    "key": "PageCollected263444161849",
+    "video": "na_PmDfcgs8",
+    "time": 585,
+    "region": "The Library Annex",
+    "index": 13
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Greenhouse_DirigiblePlum",
+    "video": "na_PmDfcgs8",
+    "time": 622,
+    "region": "The Library Annex",
+    "index": 15
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_Wandskin_SUB_LibraryStorage_TECH_X=354934 Y=-468169 Z=-87137",
+    "video": "na_PmDfcgs8",
+    "time": 767,
+    "region": "The Library Annex",
+    "index": 8
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_DADA02_X=-4110 Y=-14116 Z=180",
+    "video": "na_PmDfcgs8",
+    "time": 292,
+    "region": "The Library Annex",
+    "index": 6
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=359546 Y=-467426 Z=-80269",
+    "video": "na_PmDfcgs8",
+    "time": 218,
+    "region": "The Library Annex",
+    "index": 1
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=354128 Y=-465200 Z=-86731",
+    "video": "na_PmDfcgs8",
+    "time": 475,
+    "region": "The Library Annex",
+    "index": 2
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=352799 Y=-469385 Z=-86810",
+    "video": "na_PmDfcgs8",
+    "time": 746,
+    "region": "The Library Annex",
+    "index": 3
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_TransCourtyard_Fountain",
+    "video": "TmJz8SdyIBk",
+    "time": 10,
+    "region": "The Astronomy Wing",
+    "index": 1
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_AstronomyWing_Desk",
+    "video": "TmJz8SdyIBk",
+    "time": 28,
+    "region": "The Astronomy Wing",
+    "index": 2
+  },
+  {
+    "type": "ArithmancyChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_CentralHall_TECH_X=351676 Y=-464282 Z=-85648",
+    "video": "TmJz8SdyIBk",
+    "time": 41,
+    "region": "The Astronomy Wing",
+    "index": 1
+  },
+  {
+    "type": "Statue",
+    "key": "PageCollected307651082000",
+    "video": "TmJz8SdyIBk",
+    "time": 84,
+    "region": "The Astronomy Wing",
+    "index": 3
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=348926 Y=-459383 Z=-85617",
+    "video": "TmJz8SdyIBk",
+    "time": 101,
+    "region": "The Astronomy Wing",
+    "index": 1
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_Wandskin_SUB_DADA_1_TECH_X=348195 Y=-460395 Z=-85623",
+    "video": "TmJz8SdyIBk",
+    "time": 121,
+    "region": "The Astronomy Wing",
+    "index": 2
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_DADA_BoggartCloset",
+    "video": "TmJz8SdyIBk",
+    "time": 124,
+    "region": "The Astronomy Wing",
+    "index": 4
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_DADA_IllyiusPortrait",
+    "video": "TmJz8SdyIBk",
+    "time": 128,
+    "region": "The Astronomy Wing",
+    "index": 5
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected670580971101",
+    "video": "TmJz8SdyIBk",
+    "time": 138,
+    "region": "The Astronomy Wing",
+    "index": 6
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Viaducts_PungentPassageway",
+    "video": "TmJz8SdyIBk",
+    "time": 168,
+    "region": "The Astronomy Wing",
+    "index": 7
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_DADA_WaterfallWindow",
+    "video": "TmJz8SdyIBk",
+    "time": 172,
+    "region": "The Astronomy Wing",
+    "index": 8
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_DADA_DragonSkeleton",
+    "video": "TmJz8SdyIBk",
+    "time": 188,
+    "region": "The Astronomy Wing",
+    "index": 9
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_DADA_AugurySkeleton",
+    "video": "TmJz8SdyIBk",
+    "time": 202,
+    "region": "The Astronomy Wing",
+    "index": 10
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected76603606323",
+    "video": "TmJz8SdyIBk",
+    "time": 218,
+    "region": "The Astronomy Wing",
+    "index": 11
+  },
+  {
+    "type": "Brazier",
+    "key": "PageCollected649436911190",
+    "video": "TmJz8SdyIBk",
+    "time": 268,
+    "region": "The Astronomy Wing",
+    "index": 12
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_Wandskin_SUB_DADA_5_Classroom_TECH_X=349626 Y=-456519 Z=-82823",
+    "video": "TmJz8SdyIBk",
+    "time": 290,
+    "region": "The Astronomy Wing",
+    "index": 3
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=346503 Y=-458986 Z=-82618",
+    "video": "TmJz8SdyIBk",
+    "time": 297,
+    "region": "The Astronomy Wing",
+    "index": 2
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_Wandskin_SUB_DADA_6_TECH_X=349275 Y=-459584 Z=-80800",
+    "video": "TmJz8SdyIBk",
+    "time": 306,
+    "region": "The Astronomy Wing",
+    "index": 4
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_DADA_Cell",
+    "video": "TmJz8SdyIBk",
+    "time": 347,
+    "region": "The Astronomy Wing",
+    "index": 13
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_DADA_6_TECH_X=348304 Y=-457725 Z=-81026",
+    "video": "TmJz8SdyIBk",
+    "time": 361,
+    "region": "The Astronomy Wing",
+    "index": 14
+  },
+  {
+    "type": "ArithmancyChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_DADA_6_TECH_X=349046 Y=-457878 Z=-81898",
+    "video": "TmJz8SdyIBk",
+    "time": 382,
+    "region": "The Astronomy Wing",
+    "index": 5
+  },
+  {
+    "type": "Statue",
+    "key": "PageCollected923085023003",
+    "video": "TmJz8SdyIBk",
+    "time": 401,
+    "region": "The Astronomy Wing",
+    "index": 15
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_AstronomyTower_BarnabasTapestry",
+    "video": "TmJz8SdyIBk",
+    "time": 415,
+    "region": "The Astronomy Wing",
+    "index": 16
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected865388427001",
+    "video": "TmJz8SdyIBk",
+    "time": 426,
+    "region": "The Astronomy Wing",
+    "index": 17
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_AstronomyTower_Telescope",
+    "video": "TmJz8SdyIBk",
+    "time": 482,
+    "region": "The Astronomy Wing",
+    "index": 18
+  },
+  {
+    "type": "Brazier",
+    "key": "PageCollected887089908649",
+    "video": "TmJz8SdyIBk",
+    "time": 497,
+    "region": "The Astronomy Wing",
+    "index": 19
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=348904 Y=-464308 Z=-87398",
+    "video": "TmJz8SdyIBk",
+    "time": 511,
+    "region": "The Astronomy Wing",
+    "index": 3
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_NorthHall_AlchemyClass",
+    "video": "TmJz8SdyIBk",
+    "time": 558,
+    "region": "The Astronomy Wing",
+    "index": 20
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_Wandskin_SUB_SchoolDungeon_TECH_X=349851 Y=-462293 Z=-87423",
+    "video": "TmJz8SdyIBk",
+    "time": 574,
+    "region": "The Astronomy Wing",
+    "index": 6
+  },
+  {
+    "type": "Brazier",
+    "key": "PageCollected469775892922",
+    "video": "TmJz8SdyIBk",
+    "time": 578,
+    "region": "The Astronomy Wing",
+    "index": 21
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_SchoolDungeon_TECH_X=349664 Y=-459531 Z=-86209",
+    "video": "TmJz8SdyIBk",
+    "time": 586,
+    "region": "The Astronomy Wing",
+    "index": 22
+  },
+  {
+    "type": "Statue",
+    "key": "PageCollected941753763653",
+    "video": "TmJz8SdyIBk",
+    "time": 598,
+    "region": "The Astronomy Wing",
+    "index": 23
+  },
+  {
+    "type": "Brazier",
+    "key": "PageCollected23662196952726",
+    "video": "KnHZ5gVb_qk",
+    "time": 10,
+    "region": "The Bell Tower Wing",
+    "index": 1
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected23807200593395",
+    "video": "KnHZ5gVb_qk",
+    "time": 25,
+    "region": "The Bell Tower Wing",
+    "index": 2
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=342818 Y=-476545 Z=-86136",
+    "video": "KnHZ5gVb_qk",
+    "time": 71,
+    "region": "The Bell Tower Wing",
+    "index": 1
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Grounds_DefensiveWall",
+    "video": "KnHZ5gVb_qk",
+    "time": 90,
+    "region": "The Bell Tower Wing",
+    "index": 3
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_GroundsQ_TECH_X=354866 Y=-475785 Z=-86470",
+    "video": "KnHZ5gVb_qk",
+    "time": 104,
+    "region": "The Bell Tower Wing",
+    "index": 4
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Grounds_Chizperfles",
+    "video": "KnHZ5gVb_qk",
+    "time": 119,
+    "region": "The Bell Tower Wing",
+    "index": 5
+  },
+  {
+    "type": "Statue",
+    "key": "PageCollected26512188552414",
+    "video": "KnHZ5gVb_qk",
+    "time": 154,
+    "region": "The Bell Tower Wing",
+    "index": 6
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Grounds_BloodyMeat",
+    "video": "KnHZ5gVb_qk",
+    "time": 196,
+    "region": "The Bell Tower Wing",
+    "index": 7
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_Wandskin_SUB_GroundsKeepersQuarters_TECH_X=335944 Y=-470436 Z=-86098",
+    "video": "KnHZ5gVb_qk",
+    "time": 223,
+    "region": "The Bell Tower Wing",
+    "index": 1
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Grounds_CagedBathtub",
+    "video": "KnHZ5gVb_qk",
+    "time": 247,
+    "region": "The Bell Tower Wing",
+    "index": 8
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Grounds_QuidditchHoops",
+    "video": "KnHZ5gVb_qk",
+    "time": 274,
+    "region": "The Bell Tower Wing",
+    "index": 9
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_MagicalCreatures_TECH_X=337591 Y=-457115 Z=-84502",
+    "video": "KnHZ5gVb_qk",
+    "time": 287,
+    "region": "The Bell Tower Wing",
+    "index": 10
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=337793 Y=-457506 Z=-85323",
+    "video": "KnHZ5gVb_qk",
+    "time": 310,
+    "region": "The Bell Tower Wing",
+    "index": 2
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Grounds_Owls",
+    "video": "KnHZ5gVb_qk",
+    "time": 331,
+    "region": "The Bell Tower Wing",
+    "index": 11
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_Owlery_TECH_X=336042 Y=-442297 Z=-75287",
+    "video": "KnHZ5gVb_qk",
+    "time": 366,
+    "region": "The Bell Tower Wing",
+    "index": 12
+  },
+  {
+    "type": "Statue",
+    "key": "PageCollected2862899068052",
+    "video": "KnHZ5gVb_qk",
+    "time": 380,
+    "region": "The Bell Tower Wing",
+    "index": 13
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_BellTowers_BrokenBroom",
+    "video": "KnHZ5gVb_qk",
+    "time": 387,
+    "region": "The Bell Tower Wing",
+    "index": 14
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_BellTowers_FlattenedArmor",
+    "video": "KnHZ5gVb_qk",
+    "time": 415,
+    "region": "The Bell Tower Wing",
+    "index": 15
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_BellTowers_Plaque",
+    "video": "KnHZ5gVb_qk",
+    "time": 419,
+    "region": "The Bell Tower Wing",
+    "index": 16
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_BellTowers_WoodenCat",
+    "video": "KnHZ5gVb_qk",
+    "time": 426,
+    "region": "The Bell Tower Wing",
+    "index": 17
+  },
+  {
+    "type": "Brazier",
+    "key": "PageCollected2203118152050",
+    "video": "KnHZ5gVb_qk",
+    "time": 433,
+    "region": "The Bell Tower Wing",
+    "index": 18
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_BellTowers_TECH_X=348868 Y=-470968 Z=-84981",
+    "video": "KnHZ5gVb_qk",
+    "time": 441,
+    "region": "The Bell Tower Wing",
+    "index": 19
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_BellTowers_GoblinArtifact",
+    "video": "KnHZ5gVb_qk",
+    "time": 447,
+    "region": "The Bell Tower Wing",
+    "index": 20
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_BellTowers_ScorchMark",
+    "video": "KnHZ5gVb_qk",
+    "time": 456,
+    "region": "The Bell Tower Wing",
+    "index": 21
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_BellTowers_ToadChoir",
+    "video": "KnHZ5gVb_qk",
+    "time": 461,
+    "region": "The Bell Tower Wing",
+    "index": 22
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_BellTowersUpper_TECH_X=347540 Y=-467584 Z=-81000",
+    "video": "KnHZ5gVb_qk",
+    "time": 475,
+    "region": "The Bell Tower Wing",
+    "index": 2
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_Wandskin_SUB_BellTowersUpper_TECH_X=349091 Y=-470608 Z=-81000",
+    "video": "KnHZ5gVb_qk",
+    "time": 495,
+    "region": "The Bell Tower Wing",
+    "index": 3
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_BellTowersUpper_TECH_X=348441 Y=-470933 Z=-81000",
+    "video": "KnHZ5gVb_qk",
+    "time": 502,
+    "region": "The Bell Tower Wing",
+    "index": 4
+  },
+  {
+    "type": "Brazier",
+    "key": "PageCollected528011830189",
+    "video": "KnHZ5gVb_qk",
+    "time": 505,
+    "region": "The Bell Tower Wing",
+    "index": 23
+  },
+  {
+    "type": "ArithmancyChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_NorthHall_TECH_X=345599 Y=-462185 Z=-83918",
+    "video": "KnHZ5gVb_qk",
+    "time": 551,
+    "region": "The Bell Tower Wing",
+    "index": 5
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected2712114981412",
+    "video": "KnHZ5gVb_qk",
+    "time": 570,
+    "region": "The Bell Tower Wing",
+    "index": 24
+  },
+  {
+    "type": "Statue",
+    "key": "PageCollected3417104361200",
+    "video": "KnHZ5gVb_qk",
+    "time": 619,
+    "region": "The Bell Tower Wing",
+    "index": 25
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_BellTowers_Windows",
+    "video": "KnHZ5gVb_qk",
+    "time": 646,
+    "region": "The Bell Tower Wing",
+    "index": 26
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_NorthHall_Sphinx",
+    "video": "KnHZ5gVb_qk",
+    "time": 660,
+    "region": "The Bell Tower Wing",
+    "index": 27
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_NorthTower_TECH_X=343629 Y=-461223 Z=-85272",
+    "video": "KnHZ5gVb_qk",
+    "time": 668,
+    "region": "The Bell Tower Wing",
+    "index": 28
+  },
+  {
+    "type": "Statue",
+    "key": "PageCollected10231123151900",
+    "video": "KnHZ5gVb_qk",
+    "time": 673,
+    "region": "The Bell Tower Wing",
+    "index": 29
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_NorthHall_WerewolfTapestry",
+    "video": "KnHZ5gVb_qk",
+    "time": 829,
+    "region": "The Bell Tower Wing",
+    "index": 30
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_EntranceHall_UrnOfAshes",
+    "video": "KnHZ5gVb_qk",
+    "time": 868,
+    "region": "The Bell Tower Wing",
+    "index": 31
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_NorthHall_SleepingDragon",
+    "video": "KnHZ5gVb_qk",
+    "time": 883,
+    "region": "The Bell Tower Wing",
+    "index": 32
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_NorthHall_MuggleArtifact",
+    "video": "KnHZ5gVb_qk",
+    "time": 893,
+    "region": "The Bell Tower Wing",
+    "index": 33
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Library_LibrarianPortrait",
+    "video": "KnHZ5gVb_qk",
+    "time": 902,
+    "region": "The Bell Tower Wing",
+    "index": 34
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_DADA03_X=-794 Y=-4852 Z=1053",
+    "video": "KnHZ5gVb_qk",
+    "time": 681,
+    "region": "The Bell Tower Wing",
+    "index": 6
+  },
+  {
+    "type": "Astronomy",
+    "key": "KO_Astronomy_Phoenix_X=354582 Y=-478268 Z=-87776",
+    "video": "KnHZ5gVb_qk",
+    "time": 127,
+    "region": "The Bell Tower Wing",
+    "index": 1
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Clocktower_Well",
+    "video": "ujZ2ri9NWT0",
+    "time": 10,
+    "region": "The South Wing",
+    "index": 1
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected188394208908",
+    "video": "ujZ2ri9NWT0",
+    "time": 35,
+    "region": "The South Wing",
+    "index": 2
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_ClockTower_TECH_X=356760 Y=-445860 Z=-81301",
+    "video": "ujZ2ri9NWT0",
+    "time": 84,
+    "region": "The South Wing",
+    "index": 3
+  },
+  {
+    "type": "Statue",
+    "key": "PageCollected176773459801",
+    "video": "ujZ2ri9NWT0",
+    "time": 96,
+    "region": "The South Wing",
+    "index": 4
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_ClockTower_TECH_X=357396 Y=-445238 Z=-82825",
+    "video": "ujZ2ri9NWT0",
+    "time": 106,
+    "region": "The South Wing",
+    "index": 1
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_ClockTower_TECH_X=357615 Y=-445606 Z=-80799",
+    "video": "ujZ2ri9NWT0",
+    "time": 121,
+    "region": "The South Wing",
+    "index": 2
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_Wandskin_SUB_ClockTower_TECH_X=357741 Y=-445330 Z=-80688",
+    "video": "ujZ2ri9NWT0",
+    "time": 161,
+    "region": "The South Wing",
+    "index": 3
+  },
+  {
+    "type": "Brazier",
+    "key": "PageCollected1850965995569",
+    "video": "ujZ2ri9NWT0",
+    "time": 165,
+    "region": "The South Wing",
+    "index": 5
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Clocktower_Pendulum",
+    "video": "ujZ2ri9NWT0",
+    "time": 198,
+    "region": "The South Wing",
+    "index": 6
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_HospitalWing_UnicornFountain",
+    "video": "ujZ2ri9NWT0",
+    "time": 204,
+    "region": "The South Wing",
+    "index": 7
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_HospitalWing_TECH_X=357428 Y=-449614 Z=-77193",
+    "video": "ujZ2ri9NWT0",
+    "time": 224,
+    "region": "The South Wing",
+    "index": 8
+  },
+  {
+    "type": "Statue",
+    "key": "PageCollected1342944575501",
+    "video": "ujZ2ri9NWT0",
+    "time": 229,
+    "region": "The South Wing",
+    "index": 9
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_FacultyTower_BorisStatue",
+    "video": "ujZ2ri9NWT0",
+    "time": 240,
+    "region": "The South Wing",
+    "index": 10
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_FacultyTower_MermaidMural",
+    "video": "ujZ2ri9NWT0",
+    "time": 245,
+    "region": "The South Wing",
+    "index": 11
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_FacultyTower_TortoiseShell",
+    "video": "ujZ2ri9NWT0",
+    "time": 255,
+    "region": "The South Wing",
+    "index": 12
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_FacultySBStairs_TECH_X=358671 Y=-451614 Z=-79694",
+    "video": "ujZ2ri9NWT0",
+    "time": 270,
+    "region": "The South Wing",
+    "index": 13
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_Wandskin_SUB_FacultyTowerAttic_TECH_X=359184 Y=-449816 Z=-78951",
+    "video": "ujZ2ri9NWT0",
+    "time": 275,
+    "region": "The South Wing",
+    "index": 4
+  },
+  {
+    "type": "Brazier",
+    "key": "PageCollected1250261634752",
+    "video": "ujZ2ri9NWT0",
+    "time": 311,
+    "region": "The South Wing",
+    "index": 14
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_FacultyTower_Locksley",
+    "video": "ujZ2ri9NWT0",
+    "time": 318,
+    "region": "The South Wing",
+    "index": 15
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Baruffio",
+    "video": "ujZ2ri9NWT0",
+    "time": 364,
+    "region": "The South Wing",
+    "index": 16
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_PinkFatLady",
+    "video": "ujZ2ri9NWT0",
+    "time": 383,
+    "region": "The South Wing",
+    "index": 17
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_Wandskin_SUB_Faculty_Rooms_2_TECH_X=357884 Y=-448534 Z=-82095",
+    "video": "ujZ2ri9NWT0",
+    "time": 396,
+    "region": "The South Wing",
+    "index": 5
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_FacultyTower_ArgllshireMap",
+    "video": "ujZ2ri9NWT0",
+    "time": 415,
+    "region": "The South Wing",
+    "index": 18
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected1369422561014",
+    "video": "ujZ2ri9NWT0",
+    "time": 427,
+    "region": "The South Wing",
+    "index": 19
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_FacultyTower_Lachlan",
+    "video": "ujZ2ri9NWT0",
+    "time": 463,
+    "region": "The South Wing",
+    "index": 20
+  },
+  {
+    "type": "Brazier",
+    "key": "PageCollected111254268600",
+    "video": "ujZ2ri9NWT0",
+    "time": 472,
+    "region": "The South Wing",
+    "index": 21
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_CursedBathroom",
+    "video": "ujZ2ri9NWT0",
+    "time": 481,
+    "region": "The South Wing",
+    "index": 22
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=354065 Y=-451176 Z=-83134",
+    "video": "ujZ2ri9NWT0",
+    "time": 491,
+    "region": "The South Wing",
+    "index": 1
+  },
+  {
+    "type": "Statue",
+    "key": "PageCollected1056656701203",
+    "video": "ujZ2ri9NWT0",
+    "time": 508,
+    "region": "The South Wing",
+    "index": 23
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Boathouse_BlackLake",
+    "video": "N7qlkJ_X_GM",
+    "time": 10,
+    "region": "The Great Hall",
+    "index": 1
+  },
+  {
+    "type": "Brazier",
+    "key": "PageCollected1007976906947",
+    "video": "N7qlkJ_X_GM",
+    "time": 28,
+    "region": "The Great Hall",
+    "index": 2
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected11512712483",
+    "video": "N7qlkJ_X_GM",
+    "time": 40,
+    "region": "The Great Hall",
+    "index": 3
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Boathouse_Boats",
+    "video": "N7qlkJ_X_GM",
+    "time": 106,
+    "region": "The Great Hall",
+    "index": 4
+  },
+  {
+    "type": "Statue",
+    "key": "PageCollected84917980",
+    "video": "N7qlkJ_X_GM",
+    "time": 133,
+    "region": "The Great Hall",
+    "index": 5
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_GreatHall_Crest",
+    "video": "N7qlkJ_X_GM",
+    "time": 170,
+    "region": "The Great Hall",
+    "index": 6
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_SlyDungeons_Sink",
+    "video": "N7qlkJ_X_GM",
+    "time": 182,
+    "region": "The Great Hall",
+    "index": 7
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected336119471701",
+    "video": "N7qlkJ_X_GM",
+    "time": 202,
+    "region": "The Great Hall",
+    "index": 8
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Viaducts_DetentionRoom",
+    "video": "N7qlkJ_X_GM",
+    "time": 231,
+    "region": "The Great Hall",
+    "index": 9
+  },
+  {
+    "type": "Brazier",
+    "key": "PageCollected159240801604",
+    "video": "N7qlkJ_X_GM",
+    "time": 256,
+    "region": "The Great Hall",
+    "index": 10
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_DeathDayDungeon_TECH_X=367100 Y=-459966 Z=-83872",
+    "video": "N7qlkJ_X_GM",
+    "time": 272,
+    "region": "The Great Hall",
+    "index": 11
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_SlyDungeons_DeathDayDun",
+    "video": "N7qlkJ_X_GM",
+    "time": 303,
+    "region": "The Great Hall",
+    "index": 12
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Viaducts_HeadlessHuntTapestry",
+    "video": "N7qlkJ_X_GM",
+    "time": 307,
+    "region": "The Great Hall",
+    "index": 13
+  },
+  {
+    "type": "Statue",
+    "key": "PageCollected13173515400",
+    "video": "N7qlkJ_X_GM",
+    "time": 315,
+    "region": "The Great Hall",
+    "index": 14
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_EntranceHall_TECH_X=368002 Y=-457495 Z=-81384",
+    "video": "N7qlkJ_X_GM",
+    "time": 353,
+    "region": "The Great Hall",
+    "index": 15
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_GreatHall_HourGlasses",
+    "video": "N7qlkJ_X_GM",
+    "time": 358,
+    "region": "The Great Hall",
+    "index": 16
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_HuffBasement_PearPortrait",
+    "video": "N7qlkJ_X_GM",
+    "time": 366,
+    "region": "The Great Hall",
+    "index": 17
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_HuffBasement_MatchingTables",
+    "video": "N7qlkJ_X_GM",
+    "time": 384,
+    "region": "The Great Hall",
+    "index": 18
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_HuffBasement_SmallDoor",
+    "video": "N7qlkJ_X_GM",
+    "time": 394,
+    "region": "The Great Hall",
+    "index": 19
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_Wandskin_SUB_Kitchens_TECH_X=370182 Y=-452025 Z=-83710",
+    "video": "N7qlkJ_X_GM",
+    "time": 404,
+    "region": "The Great Hall",
+    "index": 1
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_GreatHall_Ceiling",
+    "video": "N7qlkJ_X_GM",
+    "time": 408,
+    "region": "The Great Hall",
+    "index": 20
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_GreatHall_OwlPodium",
+    "video": "N7qlkJ_X_GM",
+    "time": 438,
+    "region": "The Great Hall",
+    "index": 21
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=366609 Y=-449613 Z=-81919",
+    "video": "N7qlkJ_X_GM",
+    "time": 446,
+    "region": "The Great Hall",
+    "index": 1
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_Wandskin_SUB_GreatHall_TECH_X=366898 Y=-449126 Z=-81918",
+    "video": "N7qlkJ_X_GM",
+    "time": 462,
+    "region": "The Great Hall",
+    "index": 2
+  },
+  {
+    "type": "ArithmancyChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_ReceptionHall_TECH_X=369781 Y=-455342 Z=-82000",
+    "video": "N7qlkJ_X_GM",
+    "time": 465,
+    "region": "The Great Hall",
+    "index": 3
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_Garden_TECH_X=364449 Y=-449415 Z=-81581",
+    "video": "N7qlkJ_X_GM",
+    "time": 491,
+    "region": "The Great Hall",
+    "index": 22
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_GreatHall_Chimney",
+    "video": "N7qlkJ_X_GM",
+    "time": 509,
+    "region": "The Great Hall",
+    "index": 23
+  },
+  {
+    "type": "Brazier",
+    "key": "PageCollected89277311899",
+    "video": "N7qlkJ_X_GM",
+    "time": 514,
+    "region": "The Great Hall",
+    "index": 24
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected6947045831",
+    "video": "-UXr4u2lCyI",
+    "time": 10,
+    "region": "The Grand Staircase",
+    "index": 1
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_GreatHall_ArchitectStatue",
+    "video": "-UXr4u2lCyI",
+    "time": 48,
+    "region": "The Grand Staircase",
+    "index": 2
+  },
+  {
+    "type": "ArithmancyChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_ReceptionHall_TECH_X=365208 Y=-453774 Z=-81500",
+    "video": "-UXr4u2lCyI",
+    "time": 64,
+    "region": "The Grand Staircase",
+    "index": 1
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_HuffBasement_Stairwell",
+    "video": "-UXr4u2lCyI",
+    "time": 98,
+    "region": "The Grand Staircase",
+    "index": 3
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_HuffBasement_Barrels",
+    "video": "-UXr4u2lCyI",
+    "time": 115,
+    "region": "The Grand Staircase",
+    "index": 4
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_GrandStaircaseMiddle_TECH_X=363326 Y=-455246 Z=-81927",
+    "video": "-UXr4u2lCyI",
+    "time": 127,
+    "region": "The Grand Staircase",
+    "index": 5
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_SlyDungeons_KelpieStatue",
+    "video": "-UXr4u2lCyI",
+    "time": 185,
+    "region": "The Grand Staircase",
+    "index": 7
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_FacultyTower_SecretPassage3",
+    "video": "-UXr4u2lCyI",
+    "time": 215,
+    "region": "The Grand Staircase",
+    "index": 8
+  },
+  {
+    "type": "ArithmancyChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_QuadSouthHall_TECH_X=361081 Y=-450680 Z=-80593",
+    "video": "-UXr4u2lCyI",
+    "time": 250,
+    "region": "The Grand Staircase",
+    "index": 2
+  },
+  {
+    "type": "Statue",
+    "key": "PageCollected606856033004",
+    "video": "-UXr4u2lCyI",
+    "time": 283,
+    "region": "The Grand Staircase",
+    "index": 9
+  },
+  {
+    "type": "ArithmancyChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_Ravenclaw_TECH_X=357914 Y=-458038 Z=-80800",
+    "video": "-UXr4u2lCyI",
+    "time": 316,
+    "region": "The Grand Staircase",
+    "index": 3
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected1464022104",
+    "video": "-UXr4u2lCyI",
+    "time": 341,
+    "region": "The Grand Staircase",
+    "index": 10
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_RavTower_Bust",
+    "video": "-UXr4u2lCyI",
+    "time": 377,
+    "region": "The Grand Staircase",
+    "index": 11
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_RavTower_Doorknocker",
+    "video": "-UXr4u2lCyI",
+    "time": 390,
+    "region": "The Grand Staircase",
+    "index": 12
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Grandstaircase_FloatingStairs",
+    "video": "-UXr4u2lCyI",
+    "time": 402,
+    "region": "The Grand Staircase",
+    "index": 13
+  },
+  {
+    "type": "ArithmancyChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_GrandStaircaseUpper_TECH_X=360847 Y=-453610 Z=-78904",
+    "video": "-UXr4u2lCyI",
+    "time": 431,
+    "region": "The Grand Staircase",
+    "index": 4
+  },
+  {
+    "type": "Brazier",
+    "key": "PageCollected596739165423",
+    "video": "-UXr4u2lCyI",
+    "time": 459,
+    "region": "The Grand Staircase",
+    "index": 14
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Grandstaircase_TrollArmour",
+    "video": "-UXr4u2lCyI",
+    "time": 475,
+    "region": "The Grand Staircase",
+    "index": 15
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Grandstaircase_CentaurArmour",
+    "video": "-UXr4u2lCyI",
+    "time": 489,
+    "region": "The Grand Staircase",
+    "index": 16
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Grandstaircase_HouseElfArmour",
+    "video": "-UXr4u2lCyI",
+    "time": 499,
+    "region": "The Grand Staircase",
+    "index": 17
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Grandstaircase_Trophy",
+    "video": "-UXr4u2lCyI",
+    "time": 507,
+    "region": "The Grand Staircase",
+    "index": 18
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Grandstaircase_GobletOfFire",
+    "video": "-UXr4u2lCyI",
+    "time": 513,
+    "region": "The Grand Staircase",
+    "index": 19
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Grandstaircase_Gargoyle",
+    "video": "-UXr4u2lCyI",
+    "time": 518,
+    "region": "The Grand Staircase",
+    "index": 20
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected590566269504",
+    "video": "-UXr4u2lCyI",
+    "time": 552,
+    "region": "The Grand Staircase",
+    "index": 21
+  },
+  {
+    "type": "Brazier",
+    "key": "PageCollected766153411162",
+    "video": "-UXr4u2lCyI",
+    "time": 704,
+    "region": "The Grand Staircase",
+    "index": 25
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HW_AccioPage_SUB_QuadCourtyard_TECH_X=359018 Y=-453110 Z=-82542",
+    "video": "-UXr4u2lCyI",
+    "time": 746,
+    "region": "The Grand Staircase",
+    "index": 26
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_EVL_Scriptorium",
+    "video": "-UXr4u2lCyI",
+    "time": 143,
+    "region": "The Grand Staircase",
+    "index": 6
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Grandstaircase_SleepingPortrait",
+    "video": "-UXr4u2lCyI",
+    "time": 595,
+    "region": "The Grand Staircase",
+    "index": 22
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Grandstaircase_SortingHat",
+    "video": "-UXr4u2lCyI",
+    "time": 605,
+    "region": "The Grand Staircase",
+    "index": 23
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_Wandskin_SUB_GrandStaircaseTower_TECH_X=364688 Y=-453593 Z=-72310",
+    "video": "-UXr4u2lCyI",
+    "time": 611,
+    "region": "The Grand Staircase",
+    "index": 5
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Grandstaircase_BookAndQuill",
+    "video": "-UXr4u2lCyI",
+    "time": 616,
+    "region": "The Grand Staircase",
+    "index": 24
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_Wandskin_SUB_GrandStaircaseTower_TECH_X=363168 Y=-454519 Z=-71800",
+    "video": "-UXr4u2lCyI",
+    "time": 696,
+    "region": "The Grand Staircase",
+    "index": 6
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HW_ConjurationsRecipe_SUB_GrandStaircaseTower_TECH_X=363079 Y=-454073 Z=-71800",
+    "video": "-UXr4u2lCyI",
+    "time": 700,
+    "region": "The Grand Staircase",
+    "index": 7
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_WelcomeSign",
+    "video": "zFQnNOiRKc4",
+    "time": 10,
+    "region": "Hogsmeade",
+    "index": 1
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_MainStreet_X=384809 Y=-508825 Z=-83369",
+    "video": "zFQnNOiRKc4",
+    "time": 30,
+    "region": "Hogsmeade",
+    "index": 2
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_MainStreet_X=389089 Y=-508580 Z=-83337",
+    "video": "zFQnNOiRKc4",
+    "time": 37,
+    "region": "Hogsmeade",
+    "index": 3
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Cauldrons_Stack",
+    "video": "zFQnNOiRKc4",
+    "time": 42,
+    "region": "Hogsmeade",
+    "index": 4
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_TomesnScrolls_Staircase",
+    "video": "zFQnNOiRKc4",
+    "time": 50,
+    "region": "Hogsmeade",
+    "index": 5
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPageSUB_Tomes_X=385455 Y=-510083 Z=-82984",
+    "video": "zFQnNOiRKc4",
+    "time": 60,
+    "region": "Hogsmeade",
+    "index": 6
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=385643 Y=-509093 Z=-83511",
+    "video": "zFQnNOiRKc4",
+    "time": 67,
+    "region": "Hogsmeade",
+    "index": 1
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_WestMain_X=384465 Y=-512684 Z=-83261",
+    "video": "zFQnNOiRKc4",
+    "time": 75,
+    "region": "Hogsmeade",
+    "index": 7
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected38305951291183548",
+    "video": "zFQnNOiRKc4",
+    "time": 93,
+    "region": "Hogsmeade",
+    "index": 8
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_HogsHead_MountedHog",
+    "video": "zFQnNOiRKc4",
+    "time": 128,
+    "region": "Hogsmeade",
+    "index": 9
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=380838 Y=-514079 Z=-83443",
+    "video": "zFQnNOiRKc4",
+    "time": 140,
+    "region": "Hogsmeade",
+    "index": 2
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_HogsHead_Docks",
+    "video": "zFQnNOiRKc4",
+    "time": 145,
+    "region": "Hogsmeade",
+    "index": 10
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_WestMain_X=381171 Y=-517193 Z=-82527",
+    "video": "zFQnNOiRKc4",
+    "time": 159,
+    "region": "Hogsmeade",
+    "index": 11
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPageSUB_Neep_X=381419 Y=-520885 Z=-81361",
+    "video": "zFQnNOiRKc4",
+    "time": 169,
+    "region": "Hogsmeade",
+    "index": 12
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Neep_Cart",
+    "video": "zFQnNOiRKc4",
+    "time": 178,
+    "region": "Hogsmeade",
+    "index": 13
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPageSUB_Neep_X=376503 Y=-519615 Z=-80741",
+    "video": "zFQnNOiRKc4",
+    "time": 184,
+    "region": "Hogsmeade",
+    "index": 14
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Pippins_Brewing",
+    "video": "zFQnNOiRKc4",
+    "time": 193,
+    "region": "Hogsmeade",
+    "index": 15
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=384502 Y=-518858 Z=-82176",
+    "video": "zFQnNOiRKc4",
+    "time": 215,
+    "region": "Hogsmeade",
+    "index": 3
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_MiddleTown_X=384981 Y=-519186 Z=-81955",
+    "video": "zFQnNOiRKc4",
+    "time": 246,
+    "region": "Hogsmeade",
+    "index": 16
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_MiddleTown_X=387386 Y=-515804 Z=-82777",
+    "video": "zFQnNOiRKc4",
+    "time": 254,
+    "region": "Hogsmeade",
+    "index": 17
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Garden",
+    "video": "zFQnNOiRKc4",
+    "time": 262,
+    "region": "Hogsmeade",
+    "index": 18
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=385916 Y=-512203 Z=-83071",
+    "video": "zFQnNOiRKc4",
+    "time": 270,
+    "region": "Hogsmeade",
+    "index": 4
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Ollivanders_WandBoxes",
+    "video": "zFQnNOiRKc4",
+    "time": 304,
+    "region": "Hogsmeade",
+    "index": 19
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Spintwitches_Quidditch",
+    "video": "zFQnNOiRKc4",
+    "time": 321,
+    "region": "Hogsmeade",
+    "index": 20
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected39149851293283347",
+    "video": "zFQnNOiRKc4",
+    "time": 329,
+    "region": "Hogsmeade",
+    "index": 21
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_EastMain_X=394937 Y=-508775 Z=-82764",
+    "video": "zFQnNOiRKc4",
+    "time": 364,
+    "region": "Hogsmeade",
+    "index": 22
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=391966 Y=-515401 Z=-82944",
+    "video": "zFQnNOiRKc4",
+    "time": 376,
+    "region": "Hogsmeade",
+    "index": 5
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_3Broom_Broomsticks",
+    "video": "zFQnNOiRKc4",
+    "time": 417,
+    "region": "Hogsmeade",
+    "index": 23
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=390369 Y=-515774 Z=-81863",
+    "video": "zFQnNOiRKc4",
+    "time": 436,
+    "region": "Hogsmeade",
+    "index": 6
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HM_ConjurationsRecipe_SUB_ThreeBroomsticks_POP_X=390420 Y=-515445 Z=-81909",
+    "video": "zFQnNOiRKc4",
+    "time": 473,
+    "region": "Hogsmeade",
+    "index": 1
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_3Broom_MeetingArea",
+    "video": "zFQnNOiRKc4",
+    "time": 476,
+    "region": "Hogsmeade",
+    "index": 24
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_3Broom_Tapbarrels",
+    "video": "zFQnNOiRKc4",
+    "time": 482,
+    "region": "Hogsmeade",
+    "index": 25
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Zonkos_Shop",
+    "video": "zFQnNOiRKc4",
+    "time": 505,
+    "region": "Hogsmeade",
+    "index": 26
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Zonkos_FrogSoap",
+    "video": "zFQnNOiRKc4",
+    "time": 512,
+    "region": "Hogsmeade",
+    "index": 27
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Zonkos_Dungbomb",
+    "video": "zFQnNOiRKc4",
+    "time": 521,
+    "region": "Hogsmeade",
+    "index": 28
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_EastMain_X=391658 Y=-515979 Z=-82448",
+    "video": "zFQnNOiRKc4",
+    "time": 537,
+    "region": "Hogsmeade",
+    "index": 29
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Well",
+    "video": "zFQnNOiRKc4",
+    "time": 545,
+    "region": "Hogsmeade",
+    "index": 30
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_RiversEdge_X=390261 Y=-519226 Z=-81585",
+    "video": "zFQnNOiRKc4",
+    "time": 550,
+    "region": "Hogsmeade",
+    "index": 31
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Gladrags_Shop",
+    "video": "zFQnNOiRKc4",
+    "time": 553,
+    "region": "Hogsmeade",
+    "index": 32
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Gladrags_Mannequins",
+    "video": "zFQnNOiRKc4",
+    "time": 561,
+    "region": "Hogsmeade",
+    "index": 33
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Dervish_Sneakoscope",
+    "video": "zFQnNOiRKc4",
+    "time": 569,
+    "region": "Hogsmeade",
+    "index": 34
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=391848 Y=-520151 Z=-82092",
+    "video": "zFQnNOiRKc4",
+    "time": 578,
+    "region": "Hogsmeade",
+    "index": 7
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_Lake_X=393347 Y=-522316 Z=-81558",
+    "video": "zFQnNOiRKc4",
+    "time": 583,
+    "region": "Hogsmeade",
+    "index": 35
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Scrivenshaft_Cats",
+    "video": "zFQnNOiRKc4",
+    "time": 592,
+    "region": "Hogsmeade",
+    "index": 36
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Plaza_Hengist",
+    "video": "zFQnNOiRKc4",
+    "time": 614,
+    "region": "Hogsmeade",
+    "index": 37
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_TECH_LOC_Hogsmeade_X=395285 Y=-517839 Z=-81646",
+    "video": "zFQnNOiRKc4",
+    "time": 626,
+    "region": "Hogsmeade",
+    "index": 38
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_TeaShop_Decor",
+    "video": "zFQnNOiRKc4",
+    "time": 631,
+    "region": "Hogsmeade",
+    "index": 39
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Honeydukes_Shop",
+    "video": "zFQnNOiRKc4",
+    "time": 639,
+    "region": "Hogsmeade",
+    "index": 40
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_PostOffice_SortedMail",
+    "video": "zFQnNOiRKc4",
+    "time": 649,
+    "region": "Hogsmeade",
+    "index": 41
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Honeydukes_Whizzbees",
+    "video": "zFQnNOiRKc4",
+    "time": 661,
+    "region": "Hogsmeade",
+    "index": 42
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Honeydukes_Bonbons",
+    "video": "zFQnNOiRKc4",
+    "time": 676,
+    "region": "Hogsmeade",
+    "index": 43
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_Lake_X=396782 Y=-522918 Z=-81502",
+    "video": "zFQnNOiRKc4",
+    "time": 688,
+    "region": "Hogsmeade",
+    "index": 44
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=401854 Y=-520187 Z=-81327",
+    "video": "zFQnNOiRKc4",
+    "time": 707,
+    "region": "Hogsmeade",
+    "index": 8
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_Lake_X=402586 Y=-524812 Z=-80373",
+    "video": "zFQnNOiRKc4",
+    "time": 734,
+    "region": "Hogsmeade",
+    "index": 45
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected7586009",
+    "video": "zFQnNOiRKc4",
+    "time": 743,
+    "region": "Hogsmeade",
+    "index": 46
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Waggery_BurntCeiling",
+    "video": "zFQnNOiRKc4",
+    "time": 771,
+    "region": "Hogsmeade",
+    "index": 47
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_X=395260 Y=-524235 Z=-81541",
+    "video": "zFQnNOiRKc4",
+    "time": 796,
+    "region": "Hogsmeade",
+    "index": 9
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_NorthHills_X=393869 Y=-525864 Z=-81266",
+    "video": "zFQnNOiRKc4",
+    "time": 829,
+    "region": "Hogsmeade",
+    "index": 48
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_NorthHills_X=398141 Y=-529773 Z=-79672",
+    "video": "zFQnNOiRKc4",
+    "time": 838,
+    "region": "Hogsmeade",
+    "index": 49
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_NorthHills_X=392175 Y=-533521 Z=-79535",
+    "video": "zFQnNOiRKc4",
+    "time": 848,
+    "region": "Hogsmeade",
+    "index": 50
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Dogweed_Tree",
+    "video": "zFQnNOiRKc4",
+    "time": 862,
+    "region": "Hogsmeade",
+    "index": 51
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected39297953410780487",
+    "video": "zFQnNOiRKc4",
+    "time": 869,
+    "region": "Hogsmeade",
+    "index": 52
+  },
+  {
+    "type": "Flying",
+    "key": "Collect_HM_AccioPage_NorthHills_X=387727 Y=-529976 Z=-79394",
+    "video": "zFQnNOiRKc4",
+    "time": 912,
+    "region": "Hogsmeade",
+    "index": 53
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_OldFool_Abandoned",
+    "video": "zFQnNOiRKc4",
+    "time": 928,
+    "region": "Hogsmeade",
+    "index": 54
+  },
+  {
+    "type": "Moth",
+    "key": "PageCollected38597752884079543",
+    "video": "zFQnNOiRKc4",
+    "time": 936,
+    "region": "Hogsmeade",
+    "index": 55
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HM_ConjurationsRecipe_SUB_GEN_H_POP_One_X=392727 Y=-513250 Z=-83334",
+    "video": "zFQnNOiRKc4",
+    "time": 964,
+    "region": "Hogsmeade",
+    "index": 2
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HM_ConjurationsRecipe_SUB_GEN_E_POP_Five_X=390100 Y=-511659 Z=-83151",
+    "video": "zFQnNOiRKc4",
+    "time": 993,
+    "region": "Hogsmeade",
+    "index": 3
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HM_ConjurationsRecipe_SUB_GEN_G_POP_Two_X=401288 Y=-522604 Z=-81179",
+    "video": "zFQnNOiRKc4",
+    "time": 1025,
+    "region": "Hogsmeade",
+    "index": 4
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Hideout01_X=-3167 Y=194 Z=168",
+    "video": "zFQnNOiRKc4",
+    "time": 1054,
+    "region": "Hogsmeade",
+    "index": 5
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_HNG_AK_F_X=350353 Y=-623752 Z=-85725",
+    "video": "JgmGuUtmNpU",
+    "time": 10,
+    "region": "North Ford Bog",
+    "index": 1
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_HNG_AK_F_X=346431 Y=-621387 Z=-85375",
+    "video": "JgmGuUtmNpU",
+    "time": 35,
+    "region": "North Ford Bog",
+    "index": 2
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_HNG_AK_F_X=352921 Y=-613476 Z=-86037",
+    "video": "JgmGuUtmNpU",
+    "time": 60,
+    "region": "North Ford Bog",
+    "index": 3
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_SpiderSign",
+    "video": "JgmGuUtmNpU",
+    "time": 87,
+    "region": "North Ford Bog",
+    "index": 1
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_HNG_AK_F_X=348449 Y=-613395 Z=-85688",
+    "video": "JgmGuUtmNpU",
+    "time": 95,
+    "region": "North Ford Bog",
+    "index": 4
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_HN_AK_F_X=346593 Y=-618034 Z=-85132",
+    "video": "JgmGuUtmNpU",
+    "time": 119,
+    "region": "North Ford Bog",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "78ACBAFC43B8B61C65DF3A94970952AF",
+    "video": "JgmGuUtmNpU",
+    "time": 144,
+    "region": "North Ford Bog",
+    "index": 1
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_HN_AK_F_X=349542 Y=-607734 Z=-82445",
+    "video": "JgmGuUtmNpU",
+    "time": 198,
+    "region": "North Ford Bog",
+    "index": 1
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HNG_AN_F_X=348834 Y=-597667 Z=-81994",
+    "video": "JgmGuUtmNpU",
+    "time": 222,
+    "region": "North Ford Bog",
+    "index": 5
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HN_AK_F_X=350813 Y=-624196 Z=-82082",
+    "video": "JgmGuUtmNpU",
+    "time": 241,
+    "region": "North Ford Bog",
+    "index": 1
+  },
+  {
+    "type": "Astronomy",
+    "key": "KO_Astronomy_Centaurus_HN_AK_X=368014 Y=-618763 Z=-80701",
+    "video": "JgmGuUtmNpU",
+    "time": 274,
+    "region": "North Ford Bog",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "F343F6C14149F2A4743F31B08B7C6D4F",
+    "video": "JgmGuUtmNpU",
+    "time": 315,
+    "region": "North Ford Bog",
+    "index": 2
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HNG_AL_F_X=381305 Y=-624614 Z=-82912",
+    "video": "JgmGuUtmNpU",
+    "time": 362,
+    "region": "North Ford Bog",
+    "index": 6
+  },
+  {
+    "type": "Merlin",
+    "key": "7B6358FF458A04BD7F297291FFCEBEF9",
+    "video": "JgmGuUtmNpU",
+    "time": 377,
+    "region": "North Ford Bog",
+    "index": 3
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_Horn",
+    "video": "JgmGuUtmNpU",
+    "time": 432,
+    "region": "North Ford Bog",
+    "index": 2
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HNG_AP_F_X=407507 Y=-599501 Z=-87337",
+    "video": "JgmGuUtmNpU",
+    "time": 449,
+    "region": "North Ford Bog",
+    "index": 7
+  },
+  {
+    "type": "Merlin",
+    "key": "1C54283D47140C379B9AA8A97BD4D588",
+    "video": "JgmGuUtmNpU",
+    "time": 465,
+    "region": "North Ford Bog",
+    "index": 4
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HN_AP_F_X=405927 Y=-594929 Z=-84136",
+    "video": "JgmGuUtmNpU",
+    "time": 516,
+    "region": "North Ford Bog",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "A419E4C0417C161C876A5C97407F5A6D",
+    "video": "5YFrI_xahlE",
+    "time": 10,
+    "region": "Forbidden Forest",
+    "index": 1
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HNG_AO_F_X=381143 Y=-586857 Z=-85427",
+    "video": "5YFrI_xahlE",
+    "time": 70,
+    "region": "Forbidden Forest",
+    "index": 1
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_HN_AO_F_X=375496 Y=-587208 Z=-86028",
+    "video": "5YFrI_xahlE",
+    "time": 86,
+    "region": "Forbidden Forest",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "9A99F95F4F79B548813365B5D5E0C494",
+    "video": "5YFrI_xahlE",
+    "time": 130,
+    "region": "Forbidden Forest",
+    "index": 2
+  },
+  {
+    "type": "Astronomy",
+    "key": "KO_Astronomy_Draco_HN_AN_X=347683 Y=-568275 Z=-83142",
+    "video": "5YFrI_xahlE",
+    "time": 208,
+    "region": "Forbidden Forest",
+    "index": 1
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCM_GearTrait_HNG_AN_F_X=341057 Y=-574070 Z=-85495",
+    "video": "5YFrI_xahlE",
+    "time": 236,
+    "region": "Forbidden Forest",
+    "index": 2
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_HN_AN_F_X=332989 Y=-568965 Z=-85295",
+    "video": "5YFrI_xahlE",
+    "time": 252,
+    "region": "Forbidden Forest",
+    "index": 2
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HNG_AN_F_X=358281 Y=-565283 Z=-87809",
+    "video": "5YFrI_xahlE",
+    "time": 309,
+    "region": "Forbidden Forest",
+    "index": 3
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HNG_AN_F_X=362660 Y=-560105 Z=-87681",
+    "video": "5YFrI_xahlE",
+    "time": 324,
+    "region": "Forbidden Forest",
+    "index": 4
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HNG_AR_F_X=386868 Y=-556224 Z=-80504",
+    "video": "5YFrI_xahlE",
+    "time": 343,
+    "region": "Forbidden Forest",
+    "index": 5
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Cav12_X=21753 Y=13286 Z=12352",
+    "video": "5YFrI_xahlE",
+    "time": 362,
+    "region": "Forbidden Forest",
+    "index": 6
+  },
+  {
+    "type": "Merlin",
+    "key": "C4B276CB420A0D16A78FB19C5A73B5B3",
+    "video": "5YFrI_xahlE",
+    "time": 421,
+    "region": "Forbidden Forest",
+    "index": 3
+  },
+  {
+    "type": "Merlin",
+    "key": "36FA505F4FFEA31AB1D5C099C3EF1995",
+    "video": "wsEFQuug8To",
+    "time": 10,
+    "region": "North Hogwarts Region",
+    "index": 1
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HNG_AU_F_X=336370 Y=-534928 Z=-85643",
+    "video": "wsEFQuug8To",
+    "time": 86,
+    "region": "North Hogwarts Region",
+    "index": 1
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_HN_AU_F_X=335345 Y=-530499 Z=-83834",
+    "video": "wsEFQuug8To",
+    "time": 103,
+    "region": "North Hogwarts Region",
+    "index": 1
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_HN_AU_F_X=350016 Y=-522459 Z=-86841",
+    "video": "wsEFQuug8To",
+    "time": 122,
+    "region": "North Hogwarts Region",
+    "index": 1
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Cairn8_X=-1631 Y=-3550 Z=-149",
+    "video": "wsEFQuug8To",
+    "time": 172,
+    "region": "North Hogwarts Region",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "18D73C1740EDF55871C732B8F2BA5231",
+    "video": "wsEFQuug8To",
+    "time": 249,
+    "region": "North Hogwarts Region",
+    "index": 2
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_Fudge",
+    "video": "wsEFQuug8To",
+    "time": 304,
+    "region": "North Hogwarts Region",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "34E1DCC14A922FB7689A338395EB5930",
+    "video": "wsEFQuug8To",
+    "time": 323,
+    "region": "North Hogwarts Region",
+    "index": 3
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HNG_AV_F_X=340857 Y=-509860 Z=-87475",
+    "video": "wsEFQuug8To",
+    "time": 366,
+    "region": "North Hogwarts Region",
+    "index": 3
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_TU_BB_F_X=317774 Y=-510841 Z=-79256",
+    "video": "wsEFQuug8To",
+    "time": 383,
+    "region": "North Hogwarts Region",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "6FF5A7B14C7537286DD622BD29D1C8D9",
+    "video": "wsEFQuug8To",
+    "time": 418,
+    "region": "North Hogwarts Region",
+    "index": 4
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_TU_BB_X=320936 Y=-539518 Z=-82930",
+    "video": "wsEFQuug8To",
+    "time": 471,
+    "region": "North Hogwarts Region",
+    "index": 4
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_TU_BB_X=304105 Y=-528862 Z=-79894",
+    "video": "wsEFQuug8To",
+    "time": 488,
+    "region": "North Hogwarts Region",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "B04B153F4BFD32D1B06A048298821552",
+    "video": "wsEFQuug8To",
+    "time": 506,
+    "region": "North Hogwarts Region",
+    "index": 5
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCC_GearTrait_X=281018 Y=-514770 Z=-80741",
+    "video": "wsEFQuug8To",
+    "time": 560,
+    "region": "North Hogwarts Region",
+    "index": 5
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCC_GearTrait_X=277385 Y=-514857 Z=-79744",
+    "video": "wsEFQuug8To",
+    "time": 580,
+    "region": "North Hogwarts Region",
+    "index": 6
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Castle01_X=-7003 Y=5844 Z=585",
+    "video": "wsEFQuug8To",
+    "time": 608,
+    "region": "North Hogwarts Region",
+    "index": 7
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedGoblinChieftain1",
+    "video": "wsEFQuug8To",
+    "time": 656,
+    "region": "North Hogwarts Region",
+    "index": 1
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Cav05_X=-39699 Y=13092 Z=-404",
+    "video": "M8lTSHCqKj0",
+    "time": 100,
+    "region": "Hogsmeade Valley",
+    "index": 3
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Cav05_X=-42200 Y=13456 Z=-1786",
+    "video": "M8lTSHCqKj0",
+    "time": 100,
+    "region": "Hogsmeade Valley",
+    "index": 4
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCM_GearTrait_HNG_AP_F_X=416865 Y=-595376 Z=-83562",
+    "video": "M8lTSHCqKj0",
+    "time": 82,
+    "region": "Hogsmeade Valley",
+    "index": 2
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_HN_AP_F_X=412844 Y=-595546 Z=-85179",
+    "video": "M8lTSHCqKj0",
+    "time": 40,
+    "region": "Hogsmeade Valley",
+    "index": 1
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCM_GearTrait_HNG_AP_F_X=411186 Y=-585399 Z=-82261",
+    "video": "M8lTSHCqKj0",
+    "time": 63,
+    "region": "Hogsmeade Valley",
+    "index": 1
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedDugbogCoastal1",
+    "video": "M8lTSHCqKj0",
+    "time": 14,
+    "region": "Hogsmeade Valley",
+    "index": 1
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_PumpkinFizz",
+    "video": "M8lTSHCqKj0",
+    "time": 322,
+    "region": "Hogsmeade Valley",
+    "index": 1
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_HNG_AS_F_X=400173 Y=-565447 Z=-79966",
+    "video": "M8lTSHCqKj0",
+    "time": 369,
+    "region": "Hogsmeade Valley",
+    "index": 6
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_HNG_AS_F_X=402527 Y=-565222 Z=-80017",
+    "video": "M8lTSHCqKj0",
+    "time": 369,
+    "region": "Hogsmeade Valley",
+    "index": 5
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_HNG_AS_F_X=400000 Y=-563071 Z=-79934",
+    "video": "M8lTSHCqKj0",
+    "time": 369,
+    "region": "Hogsmeade Valley",
+    "index": 7
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_HNG_AS_F_X=405990 Y=-561019 Z=-80052",
+    "video": "M8lTSHCqKj0",
+    "time": 369,
+    "region": "Hogsmeade Valley",
+    "index": 8
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_HN_AS_F_X=400316 Y=-565338 Z=-79891",
+    "video": "M8lTSHCqKj0",
+    "time": 346,
+    "region": "Hogsmeade Valley",
+    "index": 1
+  },
+  {
+    "type": "Astronomy",
+    "key": "KO_Astronomy_Leo_HN_AS_X=395247 Y=-560137 Z=-79753",
+    "video": "M8lTSHCqKj0",
+    "time": 245,
+    "region": "Hogsmeade Valley",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "61D837284A5B5392962C7497E03D2905",
+    "video": "M8lTSHCqKj0",
+    "time": 450,
+    "region": "Hogsmeade Valley",
+    "index": 1
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HN_AS_F_X=400380 Y=-560484 Z=-79434",
+    "video": "M8lTSHCqKj0",
+    "time": 287,
+    "region": "Hogsmeade Valley",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "FC8F8D3E4CF3EF142DDE09A23A0EC802",
+    "video": "M8lTSHCqKj0",
+    "time": 495,
+    "region": "Hogsmeade Valley",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "BA61A9B248650F9813387A8A8B9607F5",
+    "video": "M8lTSHCqKj0",
+    "time": 600,
+    "region": "Hogsmeade Valley",
+    "index": 3
+  },
+  {
+    "type": "Merlin",
+    "key": "2038F20B44C16F31BBDC3E82FD458BE6",
+    "video": "M8lTSHCqKj0",
+    "time": 660,
+    "region": "Hogsmeade Valley",
+    "index": 4
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_RunespoorEgg",
+    "video": "M8lTSHCqKj0",
+    "time": 722,
+    "region": "Hogsmeade Valley",
+    "index": 3
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedDWPoacherCaptain1",
+    "video": "M8lTSHCqKj0",
+    "time": 741,
+    "region": "Hogsmeade Valley",
+    "index": 2
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_RootCottage",
+    "video": "M8lTSHCqKj0",
+    "time": 583,
+    "region": "Hogsmeade Valley",
+    "index": 2
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_HN_AX_F_X=414388 Y=-534158 Z=-82800",
+    "video": "M8lTSHCqKj0",
+    "time": 532,
+    "region": "Hogsmeade Valley",
+    "index": 1
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_HN_AY_X=417374 Y=-511029 Z=-80359",
+    "video": "M8lTSHCqKj0",
+    "time": 891,
+    "region": "Hogsmeade Valley",
+    "index": 2
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_ChocolateFrogs",
+    "video": "M8lTSHCqKj0",
+    "time": 911,
+    "region": "Hogsmeade Valley",
+    "index": 4
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedDWExtortionistSoldier1",
+    "video": "M8lTSHCqKj0",
+    "time": 930,
+    "region": "Hogsmeade Valley",
+    "index": 3
+  },
+  {
+    "type": "Merlin",
+    "key": "637400A349F5C500D450CC96B42FE899",
+    "video": "M8lTSHCqKj0",
+    "time": 796,
+    "region": "Hogsmeade Valley",
+    "index": 5
+  },
+  {
+    "type": "Merlin",
+    "key": "2E2196254A5AF9B7B26A9E8E29DF28F2",
+    "video": "2bwmWe9Wtl0",
+    "time": 9,
+    "region": "South Hogwarts Region",
+    "index": 1
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_HogsmeadeStation",
+    "video": "2bwmWe9Wtl0",
+    "time": 52,
+    "region": "South Hogwarts Region",
+    "index": 1
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HN_AW_Mi_X=399840 Y=-489120 Z=-85160",
+    "video": "2bwmWe9Wtl0",
+    "time": 70,
+    "region": "South Hogwarts Region",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "7A8091694AF8966863BF0AA1A782BA3F",
+    "video": "2bwmWe9Wtl0",
+    "time": 118,
+    "region": "South Hogwarts Region",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "45128FC24EE623F70C09B5B8E5BCC2D1",
+    "video": "2bwmWe9Wtl0",
+    "time": 156,
+    "region": "South Hogwarts Region",
+    "index": 3
+  },
+  {
+    "type": "Merlin",
+    "key": "CBDD8642459FF54BF18837A748444F44",
+    "video": "2bwmWe9Wtl0",
+    "time": 193,
+    "region": "South Hogwarts Region",
+    "index": 4
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HN_BC_F_X=404898 Y=-465345 Z=-86103",
+    "video": "2bwmWe9Wtl0",
+    "time": 263,
+    "region": "South Hogwarts Region",
+    "index": 2
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_Acromantulacage",
+    "video": "2bwmWe9Wtl0",
+    "time": 288,
+    "region": "South Hogwarts Region",
+    "index": 2
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_HNA_BD_F_X=410304 Y=-448390 Z=-82472",
+    "video": "2bwmWe9Wtl0",
+    "time": 303,
+    "region": "South Hogwarts Region",
+    "index": 1
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_HNA_BD_F_X=410225 Y=-449636 Z=-82798",
+    "video": "2bwmWe9Wtl0",
+    "time": 324,
+    "region": "South Hogwarts Region",
+    "index": 2
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_HNA_BD_F_X=408506 Y=-451456 Z=-82722",
+    "video": "2bwmWe9Wtl0",
+    "time": 342,
+    "region": "South Hogwarts Region",
+    "index": 3
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_HNA_BD_F_X=407010 Y=-452878 Z=-82791",
+    "video": "2bwmWe9Wtl0",
+    "time": 353,
+    "region": "South Hogwarts Region",
+    "index": 4
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_HN_BD_F_X=406315 Y=-451477 Z=-82455",
+    "video": "2bwmWe9Wtl0",
+    "time": 364,
+    "region": "South Hogwarts Region",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "125ED786458A80C139BB9F9BFC849562",
+    "video": "2bwmWe9Wtl0",
+    "time": 468,
+    "region": "South Hogwarts Region",
+    "index": 5
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCM_GearTrait_HNA_BE_F_X=422329 Y=-438476 Z=-77925",
+    "video": "2bwmWe9Wtl0",
+    "time": 518,
+    "region": "South Hogwarts Region",
+    "index": 6
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_HN_BD_X=412243 Y=-433302 Z=-82288",
+    "video": "2bwmWe9Wtl0",
+    "time": 536,
+    "region": "South Hogwarts Region",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "63B756BD429609AB4A19A6982DB83E4F",
+    "video": "2bwmWe9Wtl0",
+    "time": 559,
+    "region": "South Hogwarts Region",
+    "index": 6
+  },
+  {
+    "type": "Merlin",
+    "key": "748724AD41E8A7D132F38399396F39D8",
+    "video": "2bwmWe9Wtl0",
+    "time": 664,
+    "region": "South Hogwarts Region",
+    "index": 7
+  },
+  {
+    "type": "Merlin",
+    "key": "FE5D9D234C95B74BE5D0619FF222F846",
+    "video": "2bwmWe9Wtl0",
+    "time": 742,
+    "region": "South Hogwarts Region",
+    "index": 8
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HN_BH_F_X=399945 Y=-425793 Z=-85213",
+    "video": "2bwmWe9Wtl0",
+    "time": 791,
+    "region": "South Hogwarts Region",
+    "index": 3
+  },
+  {
+    "type": "Merlin",
+    "key": "80547CFA488FEE316EA585B59C68B142",
+    "video": "2bwmWe9Wtl0",
+    "time": 819,
+    "region": "South Hogwarts Region",
+    "index": 9
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_HNA_BG_F_X=360707 Y=-410666 Z=-89517",
+    "video": "2bwmWe9Wtl0",
+    "time": 856,
+    "region": "South Hogwarts Region",
+    "index": 7
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_HNA_BG_F_X=363834 Y=-410992 Z=-89836",
+    "video": "2bwmWe9Wtl0",
+    "time": 882,
+    "region": "South Hogwarts Region",
+    "index": 8
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_HNA_BG_F_X=359788 Y=-409751 Z=-89390",
+    "video": "2bwmWe9Wtl0",
+    "time": 889,
+    "region": "South Hogwarts Region",
+    "index": 9
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_HN_BG_F_X=359277 Y=-411986 Z=-89333",
+    "video": "2bwmWe9Wtl0",
+    "time": 898,
+    "region": "South Hogwarts Region",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "FADC5AA5422697B55EABF09EB44C21B5",
+    "video": "2bwmWe9Wtl0",
+    "time": 916,
+    "region": "South Hogwarts Region",
+    "index": 10
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HN_BG_F_X=341819 Y=-418584 Z=-79779",
+    "video": "2bwmWe9Wtl0",
+    "time": 973,
+    "region": "South Hogwarts Region",
+    "index": 4
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_CaretakersTools",
+    "video": "2bwmWe9Wtl0",
+    "time": 1005,
+    "region": "South Hogwarts Region",
+    "index": 3
+  },
+  {
+    "type": "Merlin",
+    "key": "790413AF495D2238E3E331A78CA8EB7A",
+    "video": "2bwmWe9Wtl0",
+    "time": 1078,
+    "region": "South Hogwarts Region",
+    "index": 12
+  },
+  {
+    "type": "Merlin",
+    "key": "5FA568234AC9663AE45B1EB5B504BE4A",
+    "video": "2bwmWe9Wtl0",
+    "time": 1113,
+    "region": "South Hogwarts Region",
+    "index": 13
+  },
+  {
+    "type": "Merlin",
+    "key": "5E5256564E61616875E41F849192234C",
+    "video": "2bwmWe9Wtl0",
+    "time": 1187,
+    "region": "South Hogwarts Region",
+    "index": 14
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HN_AZ_Mi_X=323472 Y=-465953 Z=-85550",
+    "video": "2bwmWe9Wtl0",
+    "time": 1236,
+    "region": "South Hogwarts Region",
+    "index": 5
+  },
+  {
+    "type": "Astronomy",
+    "key": "KO_Astronomy_Scorpius_HN_AV_F_X=338867 Y=-494363 Z=-84990",
+    "video": "2bwmWe9Wtl0",
+    "time": 1272,
+    "region": "South Hogwarts Region",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "18A9DF39426EB4AA51C95F9BC1D5F0E2",
+    "video": "2bwmWe9Wtl0",
+    "time": 1323,
+    "region": "South Hogwarts Region",
+    "index": 15
+  },
+  {
+    "type": "Merlin",
+    "key": "7D9159064685B0D659BA7BA967879D91",
+    "video": "2bwmWe9Wtl0",
+    "time": 1024,
+    "region": "South Hogwarts Region",
+    "index": 11
+  },
+  {
+    "type": "Astronomy",
+    "key": "KO_Astronomy_Lyra_X=332522 Y=-458904 Z=-84293",
+    "video": "2bwmWe9Wtl0",
+    "time": 1303,
+    "region": "South Hogwarts Region",
+    "index": 2
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Cav21_X=2215 Y=12782 Z=937",
+    "video": "2bwmWe9Wtl0",
+    "time": 407,
+    "region": "South Hogwarts Region",
+    "index": 5
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedSpiderWoodlouseTank1",
+    "video": "2bwmWe9Wtl0",
+    "time": 1349,
+    "region": "South Hogwarts Region",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "61EE1F114FA36B8B6917C1B198117871",
+    "video": "DgldMhGeCyU",
+    "time": 2048,
+    "region": "Hogwarts Valley",
+    "index": 14
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_HNA_BJ_F_X=429991 Y=-387866 Z=-82276",
+    "video": "DgldMhGeCyU",
+    "time": 2251,
+    "region": "Hogwarts Valley",
+    "index": 13
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_HNA_BJ_F_X=427282 Y=-380911 Z=-82285",
+    "video": "DgldMhGeCyU",
+    "time": 2251,
+    "region": "Hogwarts Valley",
+    "index": 11
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_Scarecrow",
+    "video": "DgldMhGeCyU",
+    "time": 2155,
+    "region": "Hogwarts Valley",
+    "index": 8
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_HNA_BJ_F_X=426563 Y=-378552 Z=-81931",
+    "video": "DgldMhGeCyU",
+    "time": 2251,
+    "region": "Hogwarts Valley",
+    "index": 10
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_HNA_BJ_F_X=433036 Y=-378437 Z=-82285",
+    "video": "DgldMhGeCyU",
+    "time": 2251,
+    "region": "Hogwarts Valley",
+    "index": 12
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_HN_BJ_F_X=427333 Y=-381035 Z=-82279",
+    "video": "DgldMhGeCyU",
+    "time": 2327,
+    "region": "Hogwarts Valley",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "0AE6474E40EE5143866C5A924870E157",
+    "video": "DgldMhGeCyU",
+    "time": 2175,
+    "region": "Hogwarts Valley",
+    "index": 15
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HN_BJ_F_X=431647 Y=-390343 Z=-81409",
+    "video": "DgldMhGeCyU",
+    "time": 2127,
+    "region": "Hogwarts Valley",
+    "index": 7
+  },
+  {
+    "type": "Merlin",
+    "key": "9FB0BCDD4FACDF9421F7A59C377C6C26",
+    "video": "DgldMhGeCyU",
+    "time": 2476,
+    "region": "Hogwarts Valley",
+    "index": 16
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Cairn5_X=-67 Y=2531 Z=12",
+    "video": "DgldMhGeCyU",
+    "time": 2513,
+    "region": "Hogwarts Valley",
+    "index": 15
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedTrollRiver1",
+    "video": "DgldMhGeCyU",
+    "time": 2513,
+    "region": "Hogwarts Valley",
+    "index": 4
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_HS_AJ_F_X=430251 Y=-360784 Z=-79993",
+    "video": "DgldMhGeCyU",
+    "time": 2350,
+    "region": "Hogwarts Valley",
+    "index": 6
+  },
+  {
+    "type": "Astronomy",
+    "key": "KO_Astronomy_Corvus_HS_AJ_X=423308 Y=-371105 Z=-79828",
+    "video": "PN3WBQYaf54",
+    "time": 43,
+    "region": "Hogwarts Valley",
+    "index": 2
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_HS_AJ_F_X=405151 Y=-367578 Z=-84554",
+    "video": "DgldMhGeCyU",
+    "time": 1955,
+    "region": "Hogwarts Valley",
+    "index": 5
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HS_AJ_F_X=398595 Y=-356830 Z=-85759",
+    "video": "DgldMhGeCyU",
+    "time": 1871,
+    "region": "Hogwarts Valley",
+    "index": 6
+  },
+  {
+    "type": "Merlin",
+    "key": "BCD14BDE436A82CB16BC06B6FFF4017F",
+    "video": "DgldMhGeCyU",
+    "time": 1903,
+    "region": "Hogwarts Valley",
+    "index": 13
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCC_GearTrait_X=413571 Y=-315876 Z=-83038",
+    "video": "DgldMhGeCyU",
+    "time": 1757,
+    "region": "Hogwarts Valley",
+    "index": 9
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_HS_AS_F_X=386743 Y=-314463 Z=-89096",
+    "video": "DgldMhGeCyU",
+    "time": 1819,
+    "region": "Hogwarts Valley",
+    "index": 4
+  },
+  {
+    "type": "Astronomy",
+    "key": "KO_Astronomy_Capricornus_HS_AS_F_X=387390 Y=-315186 Z=-87484",
+    "video": "DgldMhGeCyU",
+    "time": 1776,
+    "region": "Hogwarts Valley",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "3A68DC3E47927894554B7BAFD76B2EBA",
+    "video": "DgldMhGeCyU",
+    "time": 1669,
+    "region": "Hogwarts Valley",
+    "index": 12
+  },
+  {
+    "type": "Merlin",
+    "key": "BC837FCD4B23EFA1AA886A9F9FB2B80E",
+    "video": "DgldMhGeCyU",
+    "time": 1357,
+    "region": "Hogwarts Valley",
+    "index": 11
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_GobMine07_X=3298 Y=-2185 Z=689",
+    "video": "DgldMhGeCyU",
+    "time": 1409,
+    "region": "Hogwarts Valley",
+    "index": 7
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_GobMine07_X=7213 Y=31 Z=2495",
+    "video": "DgldMhGeCyU",
+    "time": 1409,
+    "region": "Hogwarts Valley",
+    "index": 8
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HS_BA_F_X=400951 Y=-274735 Z=-85061",
+    "video": "DgldMhGeCyU",
+    "time": 1259,
+    "region": "Hogwarts Valley",
+    "index": 4
+  },
+  {
+    "type": "Merlin",
+    "key": "5E13F720471A01AA574735A9C94C24DB",
+    "video": "DgldMhGeCyU",
+    "time": 1321,
+    "region": "Hogwarts Valley",
+    "index": 10
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_HS_BA_X=396427 Y=-271580 Z=-88241",
+    "video": "DgldMhGeCyU",
+    "time": 1238,
+    "region": "Hogwarts Valley",
+    "index": 3
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedTrollArmored1",
+    "video": "DgldMhGeCyU",
+    "time": 1292,
+    "region": "Hogwarts Valley",
+    "index": 3
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HS_AY_F_X=353389 Y=-285860 Z=-86290",
+    "video": "DgldMhGeCyU",
+    "time": 909,
+    "region": "Hogwarts Valley",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "0273C8BE4C30362F1A93768C26051869",
+    "video": "DgldMhGeCyU",
+    "time": 856,
+    "region": "Hogwarts Valley",
+    "index": 8
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_DoxyEgg",
+    "video": "DgldMhGeCyU",
+    "time": 942,
+    "region": "Hogwarts Valley",
+    "index": 3
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HS_AR_F_X=351576 Y=-294061 Z=-84961",
+    "video": "DgldMhGeCyU",
+    "time": 925,
+    "region": "Hogwarts Valley",
+    "index": 2
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HS_AR_F_X=348838 Y=-307110 Z=-82238",
+    "video": "DgldMhGeCyU",
+    "time": 800,
+    "region": "Hogwarts Valley",
+    "index": 3
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedWolf1",
+    "video": "DgldMhGeCyU",
+    "time": 722,
+    "region": "Hogwarts Valley",
+    "index": 1
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedWolf2",
+    "video": "DgldMhGeCyU",
+    "time": 722,
+    "region": "Hogwarts Valley",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "1CB4D5C34D18196FB51CF39AF66858AF",
+    "video": "DgldMhGeCyU",
+    "time": 830,
+    "region": "Hogwarts Valley",
+    "index": 7
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_Doily",
+    "video": "DgldMhGeCyU",
+    "time": 959,
+    "region": "Hogwarts Valley",
+    "index": 4
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_HS_AR_F_X=359387 Y=-320255 Z=-87446",
+    "video": "DgldMhGeCyU",
+    "time": 978,
+    "region": "Hogwarts Valley",
+    "index": 3
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_HS_AR_Keenbridge_Interior_GamePlay01_X=368935 Y=-318308 Z=-88838",
+    "video": "DgldMhGeCyU",
+    "time": 1019,
+    "region": "Hogwarts Valley",
+    "index": 3
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_HS_AR_Keenbridge_Interior_GamePlay01_X=373605 Y=-322229 Z=-89613",
+    "video": "DgldMhGeCyU",
+    "time": 1019,
+    "region": "Hogwarts Valley",
+    "index": 6
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_TiltedHouse",
+    "video": "DgldMhGeCyU",
+    "time": 1097,
+    "region": "Hogwarts Valley",
+    "index": 5
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_Ginger",
+    "video": "DgldMhGeCyU",
+    "time": 1097,
+    "region": "Hogwarts Valley",
+    "index": 6
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_Beehives",
+    "video": "DgldMhGeCyU",
+    "time": 1097,
+    "region": "Hogwarts Valley",
+    "index": 7
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_HS_AR_Keenbridge_Interior_GamePlay01_X=379597 Y=-319207 Z=-90320",
+    "video": "DgldMhGeCyU",
+    "time": 1019,
+    "region": "Hogwarts Valley",
+    "index": 5
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_HS_AR_Keenbridge_Interior_GamePlay01_X=375619 Y=-317453 Z=-89937",
+    "video": "DgldMhGeCyU",
+    "time": 1019,
+    "region": "Hogwarts Valley",
+    "index": 4
+  },
+  {
+    "type": "Merlin",
+    "key": "C2813FFD440A902ABC2578A380E68522",
+    "video": "DgldMhGeCyU",
+    "time": 642,
+    "region": "Hogwarts Valley",
+    "index": 6
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_HS_AI_F_X=356598 Y=-336864 Z=-81927",
+    "video": "DgldMhGeCyU",
+    "time": 557,
+    "region": "Hogwarts Valley",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "0582065D4E790947202C85857CFCAC78",
+    "video": "DgldMhGeCyU",
+    "time": 579,
+    "region": "Hogwarts Valley",
+    "index": 5
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_HS_AI_F_X=350291 Y=-335831 Z=-82806",
+    "video": "DgldMhGeCyU",
+    "time": 501,
+    "region": "Hogwarts Valley",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "BAE53EFF4317A99BC54FEDA360BF204F",
+    "video": "DgldMhGeCyU",
+    "time": 166,
+    "region": "Hogwarts Valley",
+    "index": 2
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_HN_BG_X=332584 Y=-379410 Z=-77942",
+    "video": "DgldMhGeCyU",
+    "time": 250,
+    "region": "Hogwarts Valley",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "01CD221C49470C0E73D296A7C8531C19",
+    "video": "DgldMhGeCyU",
+    "time": 60,
+    "region": "Hogwarts Valley",
+    "index": 1
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_HN_BG_F_X=349198 Y=-386413 Z=-86478",
+    "video": "DgldMhGeCyU",
+    "time": 270,
+    "region": "Hogwarts Valley",
+    "index": 1
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_HebrideanBlackScale",
+    "video": "DgldMhGeCyU",
+    "time": 408,
+    "region": "Hogwarts Valley",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "CA362FB147F8E6F70D053BB6B2EE5A22",
+    "video": "DgldMhGeCyU",
+    "time": 366,
+    "region": "Hogwarts Valley",
+    "index": 3
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_MurtlapTentacles",
+    "video": "DgldMhGeCyU",
+    "time": 423,
+    "region": "Hogwarts Valley",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "B817D2794BC1F6EBC755DE8C52BFD532",
+    "video": "DgldMhGeCyU",
+    "time": 437,
+    "region": "Hogwarts Valley",
+    "index": 4
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HS_AI_F_X=365011 Y=-366830 Z=-85404",
+    "video": "DgldMhGeCyU",
+    "time": 472,
+    "region": "Hogwarts Valley",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "765D68B648697A6170A2918D49FBB80B",
+    "video": "DgldMhGeCyU",
+    "time": 1139,
+    "region": "Hogwarts Valley",
+    "index": 9
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_HS_AR_Keenbridge_Interior_GamePlay01_X=373492 Y=-321708 Z=-89549",
+    "video": "DgldMhGeCyU",
+    "time": 1209,
+    "region": "Hogwarts Valley",
+    "index": 1
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Castle19_X=-7197 Y=-723 Z=1528",
+    "video": "DgldMhGeCyU",
+    "time": 2406,
+    "region": "Hogwarts Valley",
+    "index": 14
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HS_AS_Mi_X=388741 Y=-310713 Z=-88877",
+    "video": "DgldMhGeCyU",
+    "time": 1706,
+    "region": "Hogwarts Valley",
+    "index": 5
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HS_AH_Mi_X=311325 Y=-375713 Z=-73003",
+    "video": "DgldMhGeCyU",
+    "time": 14,
+    "region": "Hogwarts Valley",
+    "index": 1
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_JeweledBrooch",
+    "video": "E7mo2BZHa4Q",
+    "time": 14,
+    "region": "Feldcroft Region",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "ECCD80DC4DB7B2A2CCC959B7CCE82939",
+    "video": "E7mo2BZHa4Q",
+    "time": 32,
+    "region": "Feldcroft Region",
+    "index": 1
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_HS_AY_F_X=340718 Y=-250965 Z=-87985",
+    "video": "E7mo2BZHa4Q",
+    "time": 90,
+    "region": "Feldcroft Region",
+    "index": 1
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_HS_AY_F_X=341465 Y=-255184 Z=-87347",
+    "video": "E7mo2BZHa4Q",
+    "time": 113,
+    "region": "Feldcroft Region",
+    "index": 1
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_HS_AY_F_X=335452 Y=-248552 Z=-89196",
+    "video": "E7mo2BZHa4Q",
+    "time": 113,
+    "region": "Feldcroft Region",
+    "index": 2
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_HS_AY_F_X=329101 Y=-255482 Z=-85937",
+    "video": "E7mo2BZHa4Q",
+    "time": 113,
+    "region": "Feldcroft Region",
+    "index": 3
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HS_AY_F_X=339469 Y=-244580 Z=-90521",
+    "video": "E7mo2BZHa4Q",
+    "time": 193,
+    "region": "Feldcroft Region",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "042810AA403EF69A5908929C03D60418",
+    "video": "E7mo2BZHa4Q",
+    "time": 225,
+    "region": "Feldcroft Region",
+    "index": 2
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_HS_AY_X=329221 Y=-240056 Z=-89314",
+    "video": "E7mo2BZHa4Q",
+    "time": 250,
+    "region": "Feldcroft Region",
+    "index": 1
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_HS_BG_F_X=331280 Y=-233790 Z=-89320",
+    "video": "E7mo2BZHa4Q",
+    "time": 271,
+    "region": "Feldcroft Region",
+    "index": 1
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HS_AY_F_X=316845 Y=-248089 Z=-87645",
+    "video": "E7mo2BZHa4Q",
+    "time": 440,
+    "region": "Feldcroft Region",
+    "index": 6
+  },
+  {
+    "type": "Merlin",
+    "key": "88D6B3684169C85B8C2B55843CE7D426",
+    "video": "E7mo2BZHa4Q",
+    "time": 454,
+    "region": "Feldcroft Region",
+    "index": 3
+  },
+  {
+    "type": "Merlin",
+    "key": "0B5F6D5141050822244B9BAE3CF27819",
+    "video": "E7mo2BZHa4Q",
+    "time": 486,
+    "region": "Feldcroft Region",
+    "index": 4
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_CinnamonBark",
+    "video": "E7mo2BZHa4Q",
+    "time": 567,
+    "region": "Feldcroft Region",
+    "index": 2
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCM_GearTrait_HS_BF_F_X=296014 Y=-232444 Z=-94768",
+    "video": "E7mo2BZHa4Q",
+    "time": 584,
+    "region": "Feldcroft Region",
+    "index": 7
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HS_BF_F_X=296168 Y=-233125 Z=-90761",
+    "video": "E7mo2BZHa4Q",
+    "time": 600,
+    "region": "Feldcroft Region",
+    "index": 8
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HS_BF_F_X=272333 Y=-244983 Z=-93530",
+    "video": "E7mo2BZHa4Q",
+    "time": 619,
+    "region": "Feldcroft Region",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "B85D79E44E3345D5601C5EAE7D8DC4F0",
+    "video": "E7mo2BZHa4Q",
+    "time": 649,
+    "region": "Feldcroft Region",
+    "index": 5
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HS_AX_F_X=269307 Y=-256819 Z=-89952",
+    "video": "E7mo2BZHa4Q",
+    "time": 848,
+    "region": "Feldcroft Region",
+    "index": 3
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_Lovage",
+    "video": "E7mo2BZHa4Q",
+    "time": 879,
+    "region": "Feldcroft Region",
+    "index": 3
+  },
+  {
+    "type": "Merlin",
+    "key": "C68330A348B865099A742F85B890360C",
+    "video": "E7mo2BZHa4Q",
+    "time": 900,
+    "region": "Feldcroft Region",
+    "index": 6
+  },
+  {
+    "type": "Merlin",
+    "key": "5117BFD24E49C6F04CCBF9B985CBBF26",
+    "video": "E7mo2BZHa4Q",
+    "time": 983,
+    "region": "Feldcroft Region",
+    "index": 7
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HS_AW_F_X=231368 Y=-260506 Z=-93437",
+    "video": "E7mo2BZHa4Q",
+    "time": 1026,
+    "region": "Feldcroft Region",
+    "index": 4
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_HS_AW_F_X=236888 Y=-264588 Z=-94315",
+    "video": "E7mo2BZHa4Q",
+    "time": 1052,
+    "region": "Feldcroft Region",
+    "index": 2
+  },
+  {
+    "type": "Astronomy",
+    "key": "KO_Astronomy_Horologium_HS_AW_F_X=237482 Y=-269393 Z=-93082",
+    "video": "E7mo2BZHa4Q",
+    "time": 1072,
+    "region": "Feldcroft Region",
+    "index": 1
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HS_AW_F_X=255150 Y=-269208 Z=-93942",
+    "video": "E7mo2BZHa4Q",
+    "time": 1109,
+    "region": "Feldcroft Region",
+    "index": 11
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_HS_AW_F_X=265366 Y=-275245 Z=-92516",
+    "video": "E7mo2BZHa4Q",
+    "time": 1128,
+    "region": "Feldcroft Region",
+    "index": 2
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_HS_AW_F_X=257464 Y=-279533 Z=-92705",
+    "video": "E7mo2BZHa4Q",
+    "time": 1160,
+    "region": "Feldcroft Region",
+    "index": 12
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_HS_AW_F_X=261039 Y=-272035 Z=-92563",
+    "video": "E7mo2BZHa4Q",
+    "time": 1160,
+    "region": "Feldcroft Region",
+    "index": 13
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_HS_AW_F_X=265362 Y=-274624 Z=-92320",
+    "video": "E7mo2BZHa4Q",
+    "time": 1160,
+    "region": "Feldcroft Region",
+    "index": 14
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_HS_AW_F_X=265109 Y=-274192 Z=-92623",
+    "video": "E7mo2BZHa4Q",
+    "time": 1160,
+    "region": "Feldcroft Region",
+    "index": 15
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_Well",
+    "video": "E7mo2BZHa4Q",
+    "time": 1256,
+    "region": "Feldcroft Region",
+    "index": 4
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_Dummies",
+    "video": "E7mo2BZHa4Q",
+    "time": 1256,
+    "region": "Feldcroft Region",
+    "index": 5
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_HS_AX_X=286198 Y=-281789 Z=-89746",
+    "video": "E7mo2BZHa4Q",
+    "time": 1293,
+    "region": "Feldcroft Region",
+    "index": 3
+  },
+  {
+    "type": "Merlin",
+    "key": "831D8BFC47446CDA1E68E2BFB136D55C",
+    "video": "E7mo2BZHa4Q",
+    "time": 1316,
+    "region": "Feldcroft Region",
+    "index": 8
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_HS_AX_F_X=285041 Y=-276025 Z=-90754",
+    "video": "E7mo2BZHa4Q",
+    "time": 1348,
+    "region": "Feldcroft Region",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "249E9CEB44ED5CC29B6E87B89E29518E",
+    "video": "E7mo2BZHa4Q",
+    "time": 1398,
+    "region": "Feldcroft Region",
+    "index": 9
+  },
+  {
+    "type": "Merlin",
+    "key": "8551087D413B41AC7AC16B8D29A3AF05",
+    "video": "E7mo2BZHa4Q",
+    "time": 1428,
+    "region": "Feldcroft Region",
+    "index": 10
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedGoblinChieftain2",
+    "video": "E7mo2BZHa4Q",
+    "time": 1454,
+    "region": "Feldcroft Region",
+    "index": 1
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCC_GearTrait_X=248504 Y=-288870 Z=-90977",
+    "video": "E7mo2BZHa4Q",
+    "time": 1500,
+    "region": "Feldcroft Region",
+    "index": 16
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCC_GearTrait_X=245012 Y=-285463 Z=-91007",
+    "video": "E7mo2BZHa4Q",
+    "time": 1500,
+    "region": "Feldcroft Region",
+    "index": 17
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HS_AP_F_X=243534 Y=-301671 Z=-94462",
+    "video": "E7mo2BZHa4Q",
+    "time": 1528,
+    "region": "Feldcroft Region",
+    "index": 18
+  },
+  {
+    "type": "Merlin",
+    "key": "238AA8694D17705A800C51927B2C4EAB",
+    "video": "E7mo2BZHa4Q",
+    "time": 1545,
+    "region": "Feldcroft Region",
+    "index": 11
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HS_AP_F_X=252447 Y=-310532 Z=-94390",
+    "video": "E7mo2BZHa4Q",
+    "time": 1580,
+    "region": "Feldcroft Region",
+    "index": 5
+  },
+  {
+    "type": "Merlin",
+    "key": "157081B547FEA991973F0D8F2CB11F1D",
+    "video": "E7mo2BZHa4Q",
+    "time": 1609,
+    "region": "Feldcroft Region",
+    "index": 12
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_Binoculars",
+    "video": "E7mo2BZHa4Q",
+    "time": 1664,
+    "region": "Feldcroft Region",
+    "index": 6
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_HS_AP_F_X=257321 Y=-304140 Z=-93696",
+    "video": "E7mo2BZHa4Q",
+    "time": 1692,
+    "region": "Feldcroft Region",
+    "index": 3
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_HS_AG_F_X=275704 Y=-333607 Z=-84966",
+    "video": "E7mo2BZHa4Q",
+    "time": 1733,
+    "region": "Feldcroft Region",
+    "index": 6
+  },
+  {
+    "type": "Merlin",
+    "key": "AF10688E4AF0E61BC5B499AB8B64D924",
+    "video": "E7mo2BZHa4Q",
+    "time": 1772,
+    "region": "Feldcroft Region",
+    "index": 13
+  },
+  {
+    "type": "Astronomy",
+    "key": "KO_Astronomy_Lacerta_HS_AG_F_X=281405 Y=-336928 Z=-85251",
+    "video": "E7mo2BZHa4Q",
+    "time": 1816,
+    "region": "Feldcroft Region",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "5725BB5A43D2450B2BC2979E492D80D6",
+    "video": "E7mo2BZHa4Q",
+    "time": 1844,
+    "region": "Feldcroft Region",
+    "index": 14
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HS_AG_F_X=286395 Y=-333890 Z=-84651",
+    "video": "E7mo2BZHa4Q",
+    "time": 1891,
+    "region": "Feldcroft Region",
+    "index": 19
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HS_AG_F_X=281566 Y=-343894 Z=-87600",
+    "video": "E7mo2BZHa4Q",
+    "time": 1917,
+    "region": "Feldcroft Region",
+    "index": 20
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_HS_AH_F_X=304808 Y=-353759 Z=-87875",
+    "video": "E7mo2BZHa4Q",
+    "time": 1949,
+    "region": "Feldcroft Region",
+    "index": 21
+  },
+  {
+    "type": "Merlin",
+    "key": "3D8D377D4925A315509F05894A26D3E9",
+    "video": "E7mo2BZHa4Q",
+    "time": 1970,
+    "region": "Feldcroft Region",
+    "index": 15
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_HS_AH_F_X=301426 Y=-354725 Z=-87029",
+    "video": "E7mo2BZHa4Q",
+    "time": 2021,
+    "region": "Feldcroft Region",
+    "index": 4
+  },
+  {
+    "type": "Merlin",
+    "key": "844F91384E462E7FFB69BB9DF9BA8258",
+    "video": "E7mo2BZHa4Q",
+    "time": 2069,
+    "region": "Feldcroft Region",
+    "index": 16
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCM_GearTrait_HS_AH_F_X=334002 Y=-351980 Z=-81108",
+    "video": "E7mo2BZHa4Q",
+    "time": 2154,
+    "region": "Feldcroft Region",
+    "index": 22
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_PeruvianDarkness",
+    "video": "E7mo2BZHa4Q",
+    "time": 2224,
+    "region": "Feldcroft Region",
+    "index": 7
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_HS_AH_X=311155 Y=-344844 Z=-81442",
+    "video": "E7mo2BZHa4Q",
+    "time": 2244,
+    "region": "Feldcroft Region",
+    "index": 4
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Cairn3_X=-13716 Y=-20860 Z=3211",
+    "video": "E7mo2BZHa4Q",
+    "time": 703,
+    "region": "Feldcroft Region",
+    "index": 9
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Cairn3_X=-10741 Y=-17239 Z=1893",
+    "video": "E7mo2BZHa4Q",
+    "time": 703,
+    "region": "Feldcroft Region",
+    "index": 10
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Cairn13_X=7050 Y=-385 Z=-700",
+    "video": "E7mo2BZHa4Q",
+    "time": 326,
+    "region": "Feldcroft Region",
+    "index": 4
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Cairn13_X=1214 Y=6090 Z=-1267",
+    "video": "E7mo2BZHa4Q",
+    "time": 326,
+    "region": "Feldcroft Region",
+    "index": 5
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedDWThiefSolder1",
+    "video": "E7mo2BZHa4Q",
+    "time": 2264,
+    "region": "Feldcroft Region",
+    "index": 2
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_BrokenBothy",
+    "video": "eTcCMO2FEsQ",
+    "time": 0,
+    "region": "South Sea Bog",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "CDFCFE1449176E7639A4BF91F87EEB89",
+    "video": "eTcCMO2FEsQ",
+    "time": 14,
+    "region": "South Sea Bog",
+    "index": 1
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCM_GearTrait_HS_BI_F_X=387759 Y=-245397 Z=-89831",
+    "video": "eTcCMO2FEsQ",
+    "time": 91,
+    "region": "South Sea Bog",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "AB062053409ED589913F81A3280BE38A",
+    "video": "eTcCMO2FEsQ",
+    "time": 106,
+    "region": "South Sea Bog",
+    "index": 2
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedGoblinSorcerer2",
+    "video": "fEd5v0gjvpQ",
+    "time": 0,
+    "region": "Coastal Cavern",
+    "index": 1
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_Compass",
+    "video": "fEd5v0gjvpQ",
+    "time": 26,
+    "region": "Coastal Cavern",
+    "index": 1
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Cairn2_X=-6618 Y=1923 Z=421",
+    "video": "fEd5v0gjvpQ",
+    "time": 45,
+    "region": "Coastal Cavern",
+    "index": 1
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_CO_AA_F_X=407250 Y=-245554 Z=-85479",
+    "video": "fEd5v0gjvpQ",
+    "time": 78,
+    "region": "Coastal Cavern",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "256D735C45546B93603F04AE966C2D67",
+    "video": "rJAZM882ruM",
+    "time": 10,
+    "region": "Poidsear Coast",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "96944F974B9B300444606DA5EFD878C4",
+    "video": "rJAZM882ruM",
+    "time": 52,
+    "region": "Poidsear Coast",
+    "index": 2
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedDWPoacherSoldier1",
+    "video": "rJAZM882ruM",
+    "time": 90,
+    "region": "Poidsear Coast",
+    "index": 1
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCC_GearTrait_X=424165 Y=-223817 Z=-89095",
+    "video": "rJAZM882ruM",
+    "time": 113,
+    "region": "Poidsear Coast",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "D83CE6EF4B3B3D800294EEA21D19DC18",
+    "video": "rJAZM882ruM",
+    "time": 132,
+    "region": "Poidsear Coast",
+    "index": 3
+  },
+  {
+    "type": "Merlin",
+    "key": "F936CBF9448FB9053175AA9A0167476C",
+    "video": "rJAZM882ruM",
+    "time": 184,
+    "region": "Poidsear Coast",
+    "index": 4
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_CO_AG_F_X=412083 Y=-207952 Z=-93232",
+    "video": "rJAZM882ruM",
+    "time": 219,
+    "region": "Poidsear Coast",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "AC92DFA54EA8222F2CDC028A70AA5798",
+    "video": "rJAZM882ruM",
+    "time": 235,
+    "region": "Poidsear Coast",
+    "index": 5
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_CO_AL_F_X=415455 Y=-191632 Z=-92189",
+    "video": "rJAZM882ruM",
+    "time": 310,
+    "region": "Poidsear Coast",
+    "index": 3
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_CO_AL_F_X=426482 Y=-199006 Z=-90474",
+    "video": "rJAZM882ruM",
+    "time": 326,
+    "region": "Poidsear Coast",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "6F3E023C424E941208C1E1B974015431",
+    "video": "rJAZM882ruM",
+    "time": 352,
+    "region": "Poidsear Coast",
+    "index": 6
+  },
+  {
+    "type": "Merlin",
+    "key": "DA723D0C45909260B061E5B4A0E34D3F",
+    "video": "rJAZM882ruM",
+    "time": 413,
+    "region": "Poidsear Coast",
+    "index": 7
+  },
+  {
+    "type": "Merlin",
+    "key": "D1638D9E40F51C59A2B03B9EABB29D76",
+    "video": "rJAZM882ruM",
+    "time": 464,
+    "region": "Poidsear Coast",
+    "index": 8
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_CO_AH_F_X=457891 Y=-223304 Z=-90265",
+    "video": "rJAZM882ruM",
+    "time": 518,
+    "region": "Poidsear Coast",
+    "index": 1
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_CO_AH_F_X=460996 Y=-232938 Z=-89228",
+    "video": "rJAZM882ruM",
+    "time": 604,
+    "region": "Poidsear Coast",
+    "index": 4
+  },
+  {
+    "type": "Merlin",
+    "key": "B1B313654E05076EE5721AB25161774F",
+    "video": "rJAZM882ruM",
+    "time": 801,
+    "region": "Poidsear Coast",
+    "index": 9
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_CO_AH_F_X=470836 Y=-203020 Z=-94759",
+    "video": "rJAZM882ruM",
+    "time": 853,
+    "region": "Poidsear Coast",
+    "index": 7
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_CO_AH_F_X=472890 Y=-225380 Z=-91064",
+    "video": "rJAZM882ruM",
+    "time": 868,
+    "region": "Poidsear Coast",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "BCB3D6D64D999D9C5B30F78F36755A25",
+    "video": "rJAZM882ruM",
+    "time": 894,
+    "region": "Poidsear Coast",
+    "index": 10
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_CO_AS_F_X=440483 Y=-170404 Z=-93437",
+    "video": "rJAZM882ruM",
+    "time": 958,
+    "region": "Poidsear Coast",
+    "index": 2
+  },
+  {
+    "type": "Astronomy",
+    "key": "KO_Astronomy_Hydra_CO_AS_F_X=444568 Y=-165137 Z=-93870",
+    "video": "rJAZM882ruM",
+    "time": 1068,
+    "region": "Poidsear Coast",
+    "index": 1
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_CO_AS_F_X=440556 Y=-168174 Z=-93589",
+    "video": "rJAZM882ruM",
+    "time": 1096,
+    "region": "Poidsear Coast",
+    "index": 3
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_CO_AS_F_X=444924 Y=-156608 Z=-95384",
+    "video": "rJAZM882ruM",
+    "time": 1131,
+    "region": "Poidsear Coast",
+    "index": 8
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_CO_AS_X=431958 Y=-145916 Z=-93414",
+    "video": "rJAZM882ruM",
+    "time": 1146,
+    "region": "Poidsear Coast",
+    "index": 1
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Cav06_X=-938 Y=884 Z=-1328",
+    "video": "rJAZM882ruM",
+    "time": 619,
+    "region": "Poidsear Coast",
+    "index": 5
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Cav06_X=24582 Y=13787 Z=2763",
+    "video": "rJAZM882ruM",
+    "time": 679,
+    "region": "Poidsear Coast",
+    "index": 6
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_CO_AN_F_X=496385 Y=-207588 Z=-95045",
+    "video": "6opEItpQCjI",
+    "time": 10,
+    "region": "Marunweem Lake",
+    "index": 1
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_CO_AN_F_X=525743 Y=-190512 Z=-95600",
+    "video": "6opEItpQCjI",
+    "time": 261,
+    "region": "Marunweem Lake",
+    "index": 4
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_CO_AN_X=530208 Y=-188602 Z=-91232",
+    "video": "6opEItpQCjI",
+    "time": 274,
+    "region": "Marunweem Lake",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "AC58BB3A44B4C6A98F15BFA4ED80BFEC",
+    "video": "6opEItpQCjI",
+    "time": 288,
+    "region": "Marunweem Lake",
+    "index": 1
+  },
+  {
+    "type": "Astronomy",
+    "key": "KO_Astronomy_CanisMajor_CO_AN_X=530073 Y=-177409 Z=-87396",
+    "video": "6opEItpQCjI",
+    "time": 356,
+    "region": "Marunweem Lake",
+    "index": 1
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCM_GearTrait_CO_AN_F_X=542490 Y=-177978 Z=-88314",
+    "video": "6opEItpQCjI",
+    "time": 393,
+    "region": "Marunweem Lake",
+    "index": 5
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_CO_AN_F_X=512678 Y=-186517 Z=-94737",
+    "video": "6opEItpQCjI",
+    "time": 494,
+    "region": "Marunweem Lake",
+    "index": 1
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_CO_AN_F_X=499700 Y=-177358 Z=-91075",
+    "video": "6opEItpQCjI",
+    "time": 587,
+    "region": "Marunweem Lake",
+    "index": 1
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_CO_AU_F_X=506063 Y=-171235 Z=-90756",
+    "video": "6opEItpQCjI",
+    "time": 625,
+    "region": "Marunweem Lake",
+    "index": 8
+  },
+  {
+    "type": "Merlin",
+    "key": "F57CE9D44A503805DFC7A688B5F65E43",
+    "video": "6opEItpQCjI",
+    "time": 639,
+    "region": "Marunweem Lake",
+    "index": 2
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_CO_AM_F_X=475091 Y=-181672 Z=-93152",
+    "video": "6opEItpQCjI",
+    "time": 694,
+    "region": "Marunweem Lake",
+    "index": 2
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_CO_AM_F_X=475146 Y=-181615 Z=-94806",
+    "video": "6opEItpQCjI",
+    "time": 714,
+    "region": "Marunweem Lake",
+    "index": 2
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_CO_AT_F_X=477927 Y=-159718 Z=-95304",
+    "video": "6opEItpQCjI",
+    "time": 783,
+    "region": "Marunweem Lake",
+    "index": 9
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_CO_AT_F_X=481512 Y=-159875 Z=-94944",
+    "video": "6opEItpQCjI",
+    "time": 806,
+    "region": "Marunweem Lake",
+    "index": 10
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_CO_AT_F_X=481059 Y=-159622 Z=-94947",
+    "video": "6opEItpQCjI",
+    "time": 873,
+    "region": "Marunweem Lake",
+    "index": 1
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_CO_AT_F_X=484531 Y=-160949 Z=-94562",
+    "video": "6opEItpQCjI",
+    "time": 826,
+    "region": "Marunweem Lake",
+    "index": 11
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_CO_AT_F_X=485238 Y=-156678 Z=-93926",
+    "video": "6opEItpQCjI",
+    "time": 842,
+    "region": "Marunweem Lake",
+    "index": 12
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_CO_AT_F_X=485614 Y=-156458 Z=-93926",
+    "video": "6opEItpQCjI",
+    "time": 852,
+    "region": "Marunweem Lake",
+    "index": 13
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_CO_AT_F_X=478196 Y=-151301 Z=-94657",
+    "video": "6opEItpQCjI",
+    "time": 858,
+    "region": "Marunweem Lake",
+    "index": 14
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_CO_AT_F_X=490762 Y=-158621 Z=-92346",
+    "video": "6opEItpQCjI",
+    "time": 905,
+    "region": "Marunweem Lake",
+    "index": 15
+  },
+  {
+    "type": "Merlin",
+    "key": "EF242D5B4F39672FE1F7B5AC28D072BB",
+    "video": "6opEItpQCjI",
+    "time": 919,
+    "region": "Marunweem Lake",
+    "index": 3
+  },
+  {
+    "type": "Merlin",
+    "key": "186BFC8A48DC7892D8C39E8102D787B6",
+    "video": "6opEItpQCjI",
+    "time": 956,
+    "region": "Marunweem Lake",
+    "index": 4
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedGoblinSorcerer1",
+    "video": "6opEItpQCjI",
+    "time": 25,
+    "region": "Marunweem Lake",
+    "index": 1
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_GobMine06_X=6867 Y=-1015 Z=2948",
+    "video": "6opEItpQCjI",
+    "time": 123,
+    "region": "Marunweem Lake",
+    "index": 2
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_GobMine06_X=6391 Y=13619 Z=2258",
+    "video": "6opEItpQCjI",
+    "time": 176,
+    "region": "Marunweem Lake",
+    "index": 3
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_PercivalTowerDungeon_X=8779 Y=4011 Z=1926",
+    "video": "6opEItpQCjI",
+    "time": 408,
+    "region": "Marunweem Lake",
+    "index": 6
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_PercivalTowerDungeon_X=-3697 Y=-5321 Z=662",
+    "video": "6opEItpQCjI",
+    "time": 452,
+    "region": "Marunweem Lake",
+    "index": 7
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_CO_BB_F_X=493329 Y=-127123 Z=-93501",
+    "video": "gYs24rpRPZ0",
+    "time": 10,
+    "region": "Manor Cape",
+    "index": 1
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_CO_BB_F_X=492349 Y=-125508 Z=-93544",
+    "video": "gYs24rpRPZ0",
+    "time": 21,
+    "region": "Manor Cape",
+    "index": 2
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_CO_BB_F_X=492239 Y=-123334 Z=-93687",
+    "video": "gYs24rpRPZ0",
+    "time": 35,
+    "region": "Manor Cape",
+    "index": 3
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_CO_BB_F_X=495347 Y=-123163 Z=-92975",
+    "video": "gYs24rpRPZ0",
+    "time": 53,
+    "region": "Manor Cape",
+    "index": 4
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_CO_BB_F_X=492466 Y=-129876 Z=-93394",
+    "video": "gYs24rpRPZ0",
+    "time": 72,
+    "region": "Manor Cape",
+    "index": 1
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_CO_BA_F_X=487477 Y=-101753 Z=-93584",
+    "video": "gYs24rpRPZ0",
+    "time": 110,
+    "region": "Manor Cape",
+    "index": 5
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_CO_BA_F_X=462595 Y=-87315 Z=-90350",
+    "video": "gYs24rpRPZ0",
+    "time": 127,
+    "region": "Manor Cape",
+    "index": 1
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_CO_BA_X=462020 Y=-111207 Z=-94571",
+    "video": "gYs24rpRPZ0",
+    "time": 158,
+    "region": "Manor Cape",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "33071EF2488F8ABFB76F4DBC63212140",
+    "video": "gYs24rpRPZ0",
+    "time": 175,
+    "region": "Manor Cape",
+    "index": 1
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_CO_BA_Rookwood_X=469693 Y=-102946 Z=-91999",
+    "video": "gYs24rpRPZ0",
+    "time": 217,
+    "region": "Manor Cape",
+    "index": 1
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedDWThiefMage1",
+    "video": "gYs24rpRPZ0",
+    "time": 299,
+    "region": "Manor Cape",
+    "index": 1
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_Inferius3",
+    "video": "gYs24rpRPZ0",
+    "time": 299,
+    "region": "Manor Cape",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "2C7CB80A4EE73367C5DE43B8A82494C6",
+    "video": "gYs24rpRPZ0",
+    "time": 345,
+    "region": "Manor Cape",
+    "index": 2
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCM_GearTrait_CO_BA_F_X=477916 Y=-82278 Z=-93636",
+    "video": "gYs24rpRPZ0",
+    "time": 418,
+    "region": "Manor Cape",
+    "index": 6
+  },
+  {
+    "type": "Merlin",
+    "key": "593E507E4C5678C6C98466AE48283303",
+    "video": "gYs24rpRPZ0",
+    "time": 432,
+    "region": "Manor Cape",
+    "index": 3
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_CO_BH_X=459033 Y=-65296 Z=-92523",
+    "video": "gYs24rpRPZ0",
+    "time": 492,
+    "region": "Manor Cape",
+    "index": 2
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_CO_BH_F_X=468850 Y=-46693 Z=-89649",
+    "video": "gYs24rpRPZ0",
+    "time": 510,
+    "region": "Manor Cape",
+    "index": 2
+  },
+  {
+    "type": "Merlin",
+    "key": "EDF20FA648314EACA1C0D3A38055FAD5",
+    "video": "gYs24rpRPZ0",
+    "time": 540,
+    "region": "Manor Cape",
+    "index": 4
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedDWExtortionistMage1",
+    "video": "gYs24rpRPZ0",
+    "time": 623,
+    "region": "Manor Cape",
+    "index": 3
+  },
+  {
+    "type": "Merlin",
+    "key": "F14E140749FE3A54BF5B6999F073E0A2",
+    "video": "gYs24rpRPZ0",
+    "time": 650,
+    "region": "Manor Cape",
+    "index": 5
+  },
+  {
+    "type": "Astronomy",
+    "key": "KO_Astronomy_Sagittarius_CO_BM_F_X=501085 Y=-32424 Z=-93638",
+    "video": "gYs24rpRPZ0",
+    "time": 690,
+    "region": "Manor Cape",
+    "index": 1
+  },
+  {
+    "type": "DungeonChest",
+    "key": "Chest_Dungeon_ConjurationsRecipe_Castle10_X=4218 Y=-3048 Z=-379",
+    "video": "gYs24rpRPZ0",
+    "time": 418,
+    "region": "Manor Cape",
+    "index": 7
+  },
+  {
+    "type": "AncientMagic",
+    "key": "AMagic_CO_BB_X=522080 Y=-97484 Z=-93498",
+    "video": "XFvSJbUJU9A",
+    "time": 10,
+    "region": "Cragcroftshire",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "EAD47B9D45BDF8A597247CA82D9B19B6",
+    "video": "XFvSJbUJU9A",
+    "time": 62,
+    "region": "Cragcroftshire",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "D9AC62634CF56D02022C1099FD78B755",
+    "video": "XFvSJbUJU9A",
+    "time": 109,
+    "region": "Cragcroftshire",
+    "index": 2
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_CO_BD_F_X=570911 Y=-101048 Z=-90770",
+    "video": "XFvSJbUJU9A",
+    "time": 161,
+    "region": "Cragcroftshire",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "ED1ECFC448BD3806D6B9C2B246F9B9E8",
+    "video": "XFvSJbUJU9A",
+    "time": 193,
+    "region": "Cragcroftshire",
+    "index": 3
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_CO_BD_F_X=583390 Y=-101291 Z=-92184",
+    "video": "XFvSJbUJU9A",
+    "time": 227,
+    "region": "Cragcroftshire",
+    "index": 1
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_BigTree",
+    "video": "XFvSJbUJU9A",
+    "time": 253,
+    "region": "Cragcroftshire",
+    "index": 1
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_Conjuration_CO_BD_F_X=587010 Y=-97378 Z=-92298",
+    "video": "XFvSJbUJU9A",
+    "time": 266,
+    "region": "Cragcroftshire",
+    "index": 2
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_CO_BD_F_X=586053 Y=-95719 Z=-91636",
+    "video": "XFvSJbUJU9A",
+    "time": 277,
+    "region": "Cragcroftshire",
+    "index": 3
+  },
+  {
+    "type": "MiscChest",
+    "key": "Chest_HAM_WandSkin_CO_BD_F_X=584839 Y=-94022 Z=-92505",
+    "video": "XFvSJbUJU9A",
+    "time": 299,
+    "region": "Cragcroftshire",
+    "index": 4
+  },
+  {
+    "type": "Demiguise",
+    "key": "KO_Demiguise_CO_BD_F_X=580133 Y=-99609 Z=-92501",
+    "video": "XFvSJbUJU9A",
+    "time": 330,
+    "region": "Cragcroftshire",
+    "index": 1
+  },
+  {
+    "type": "Astronomy",
+    "key": "KO_Astronomy_Cetus_CO_BK_X=588750 Y=-73621 Z=-90790",
+    "video": "XFvSJbUJU9A",
+    "time": 373,
+    "region": "Cragcroftshire",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "F45064ED41DB1203267CD2AB0256BE1F",
+    "video": "XFvSJbUJU9A",
+    "time": 393,
+    "region": "Cragcroftshire",
+    "index": 4
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_CO_BK_X=582600 Y=-64759 Z=-89917",
+    "video": "XFvSJbUJU9A",
+    "time": 433,
+    "region": "Cragcroftshire",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "920BE30446153AB5965F9A901CD6073D",
+    "video": "XFvSJbUJU9A",
+    "time": 455,
+    "region": "Cragcroftshire",
+    "index": 5
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_Skeleton",
+    "video": "XFvSJbUJU9A",
+    "time": 486,
+    "region": "Cragcroftshire",
+    "index": 2
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCM_GearTrait_CO_BC_F_X=557794 Y=-81072 Z=-95731",
+    "video": "XFvSJbUJU9A",
+    "time": 503,
+    "region": "Cragcroftshire",
+    "index": 5
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_CO_BC_F_X=545403 Y=-79914 Z=-93297",
+    "video": "XFvSJbUJU9A",
+    "time": 518,
+    "region": "Cragcroftshire",
+    "index": 2
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCM_GearTrait_CO_BI_F_X=529518 Y=-74507 Z=-91722",
+    "video": "P1nYcWHPAMU",
+    "time": 10,
+    "region": "Clagmar Coast",
+    "index": 1
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_Venom",
+    "video": "P1nYcWHPAMU",
+    "time": 27,
+    "region": "Clagmar Coast",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "6C40D22749FCCFAB28958C9B648A6F2F",
+    "video": "P1nYcWHPAMU",
+    "time": 40,
+    "region": "Clagmar Coast",
+    "index": 1
+  },
+  {
+    "type": "Revelio",
+    "key": "LORE_Overland_Onion",
+    "video": "P1nYcWHPAMU",
+    "time": 113,
+    "region": "Clagmar Coast",
+    "index": 2
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_CO_BI_F_X=520257 Y=-55059 Z=-93934",
+    "video": "P1nYcWHPAMU",
+    "time": 128,
+    "region": "Clagmar Coast",
+    "index": 2
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCL_GearTrait_CO_BM_X=527512 Y=-36392 Z=-94499",
+    "video": "P1nYcWHPAMU",
+    "time": 142,
+    "region": "Clagmar Coast",
+    "index": 3
+  },
+  {
+    "type": "Balloon",
+    "key": "FlyingBroom_Balloon_CO_BQ_F_X=535323 Y=-30238 Z=-87319",
+    "video": "P1nYcWHPAMU",
+    "time": 160,
+    "region": "Clagmar Coast",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "A3C6662A451DEF2C33E9F8B9834082E0",
+    "video": "P1nYcWHPAMU",
+    "time": 193,
+    "region": "Clagmar Coast",
+    "index": 2
+  },
+  {
+    "type": "Astronomy",
+    "key": "KO_Astronomy_Lupus_CO_BQ_X=557734 Y=-15351 Z=-90110",
+    "video": "P1nYcWHPAMU",
+    "time": 244,
+    "region": "Clagmar Coast",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "E3BE28CB40ED4B755FF5B29D5C7D4D4E",
+    "video": "P1nYcWHPAMU",
+    "time": 282,
+    "region": "Clagmar Coast",
+    "index": 3
+  },
+  {
+    "type": "Landing",
+    "key": "FlyingBroom_Platform_CO_BR_X=586082 Y=-20332 Z=-93370",
+    "video": "P1nYcWHPAMU",
+    "time": 341,
+    "region": "Clagmar Coast",
+    "index": 1
+  },
+  {
+    "type": "Merlin",
+    "key": "48D1EE26427D1FC24CC408A128D123E9",
+    "video": "P1nYcWHPAMU",
+    "time": 363,
+    "region": "Clagmar Coast",
+    "index": 4
+  },
+  {
+    "type": "Merlin",
+    "key": "688A783D4000F26B1260B7B95E9EAF0C",
+    "video": "P1nYcWHPAMU",
+    "time": 391,
+    "region": "Clagmar Coast",
+    "index": 5
+  },
+  {
+    "type": "Foe",
+    "key": "INT_Kill_NamedDWThiefCaptain1",
+    "video": "P1nYcWHPAMU",
+    "time": 459,
+    "region": "Clagmar Coast",
+    "index": 1
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCC_GearTrait_X=552501 Y=-34577 Z=-90702",
+    "video": "P1nYcWHPAMU",
+    "time": 485,
+    "region": "Clagmar Coast",
+    "index": 4
+  },
+  {
+    "type": "CampChest",
+    "key": "Chest_BCC_GearTrait_X=552518 Y=-32353 Z=-90687",
+    "video": "P1nYcWHPAMU",
+    "time": 499,
+    "region": "Clagmar Coast",
+    "index": 5
+  },
+  {
+    "type": "VivariumChest",
+    "key": "VIVARIUM_Swamp_Chest1",
+    "video": "ydm1hlweOTU",
+    "time": 0,
+    "region": "Vivariums",
+    "index": 1
+  },
+  {
+    "type": "VivariumChest",
+    "key": "VIVARIUM_Swamp_Chest3",
+    "video": "ydm1hlweOTU",
+    "time": 32,
+    "region": "Vivariums",
+    "index": 2
+  },
+  {
+    "type": "VivariumChest",
+    "key": "VIVARIUM_Swamp_Chest2",
+    "video": "ydm1hlweOTU",
+    "time": 53,
+    "region": "Vivariums",
+    "index": 3
+  },
+  {
+    "type": "VivariumChest",
+    "key": "VIVARIUM_Forest_Chest3",
+    "video": "ydm1hlweOTU",
+    "time": 92,
+    "region": "Vivariums",
+    "index": 4
+  },
+  {
+    "type": "VivariumChest",
+    "key": "VIVARIUM_Forest_Chest2",
+    "video": "ydm1hlweOTU",
+    "time": 121,
+    "region": "Vivariums",
+    "index": 5
+  },
+  {
+    "type": "VivariumChest",
+    "key": "VIVARIUM_Forest_Chest1",
+    "video": "ydm1hlweOTU",
+    "time": 154,
+    "region": "Vivariums",
+    "index": 6
+  },
+  {
+    "type": "VivariumChest",
+    "key": "VIVARIUM_Coastal_Chest1",
+    "video": "ydm1hlweOTU",
+    "time": 166,
+    "region": "Vivariums",
+    "index": 7
+  },
+  {
+    "type": "VivariumChest",
+    "key": "VIVARIUM_Coastal_Chest3",
+    "video": "ydm1hlweOTU",
+    "time": 194,
+    "region": "Vivariums",
+    "index": 8
+  },
+  {
+    "type": "VivariumChest",
+    "key": "VIVARIUM_Coastal_Chest2",
+    "video": "ydm1hlweOTU",
+    "time": 224,
+    "region": "Vivariums",
+    "index": 9
+  },
+  {
+    "type": "VivariumChest",
+    "key": "VIVARIUM_Tundra_Chest1",
+    "video": "ydm1hlweOTU",
+    "time": 245,
+    "region": "Vivariums",
+    "index": 10
+  },
+  {
+    "type": "VivariumChest",
+    "key": "VIVARIUM_Tundra_Chest2",
+    "video": "ydm1hlweOTU",
+    "time": 280,
+    "region": "Vivariums",
+    "index": 11
+  },
+  {
+    "type": "VivariumChest",
+    "key": "VIVARIUM_Tundra_Chest3",
+    "video": "ydm1hlweOTU",
+    "time": 300,
+    "region": "Vivariums",
+    "index": 12
+  },
+  {
+    "type": "ButterflyChest",
+    "key": "6B564A7340A0AC3DCDBFD3913BFBA38A",
+    "video": "ImMInXddlXE",
+    "time": 0,
+    "region": "Butterflies",
+    "index": 1
+  },
+  {
+    "type": "ButterflyChest",
+    "key": "020CB382495B83FF10AE92989DCD2224",
+    "video": "ImMInXddlXE",
+    "time": 26,
+    "region": "Butterflies",
+    "index": 2
+  },
+  {
+    "type": "ButterflyChest",
+    "key": "3D831435444EE51F708EE6A52F50A90B",
+    "video": "ImMInXddlXE",
+    "time": 74,
+    "region": "Butterflies",
+    "index": 3
+  },
+  {
+    "type": "ButterflyChest",
+    "key": "96EC885F4BFD778D9A51969F82C2D501",
+    "video": "ImMInXddlXE",
+    "time": 124,
+    "region": "Butterflies",
+    "index": 4
+  },
+  {
+    "type": "ButterflyChest",
+    "key": "CC58F3784D0EF377BD9B4F8E17E4D2CE",
+    "video": "ImMInXddlXE",
+    "time": 168,
+    "region": "Butterflies",
+    "index": 5
+  },
+  {
+    "type": "ButterflyChest",
+    "key": "1AA51C864FE6A530E3F4BB9F9C756BCF",
+    "video": "ImMInXddlXE",
+    "time": 217,
+    "region": "Butterflies",
+    "index": 6
+  },
+  {
+    "type": "ButterflyChest",
+    "key": "1BB2918C44EE083A12C6EBA3FBE14E05",
+    "video": "ImMInXddlXE",
+    "time": 249,
+    "region": "Butterflies",
+    "index": 7
+  },
+  {
+    "type": "ButterflyChest",
+    "key": "2A4608C648560C776AF520AF1292EA1E",
+    "video": "ImMInXddlXE",
+    "time": 283,
+    "region": "Butterflies",
+    "index": 8
+  },
+  {
+    "type": "ButterflyChest",
+    "key": "98A08B7A4F05C6030F7D2CA3C5BFCA77",
+    "video": "ImMInXddlXE",
+    "time": 313,
+    "region": "Butterflies",
+    "index": 9
+  },
+  {
+    "type": "ButterflyChest",
+    "key": "D164308E4D9F52F26368498D23F02F3D",
+    "video": "ImMInXddlXE",
+    "time": 341,
+    "region": "Butterflies",
+    "index": 10
+  },
+  {
+    "type": "ButterflyChest",
+    "key": "0C8F4B164CE2544CA188028780075A1E",
+    "video": "ImMInXddlXE",
+    "time": 372,
+    "region": "Butterflies",
+    "index": 11
+  },
+  {
+    "type": "ButterflyChest",
+    "key": "2AA750A14DE1F9D56436F4B6A161C7DE",
+    "video": "ImMInXddlXE",
+    "time": 402,
+    "region": "Butterflies",
+    "index": 12
+  },
+  {
+    "type": "ButterflyChest",
+    "key": "51A9F29145EFD9A41DD98E844CB1F947",
+    "video": "ImMInXddlXE",
+    "time": 424,
+    "region": "Butterflies",
+    "index": 13
+  },
+  {
+    "type": "ButterflyChest",
+    "key": "E0232B9947AA76398A46F7AE70A9DF33",
+    "video": "ImMInXddlXE",
+    "time": 479,
+    "region": "Butterflies",
+    "index": 14
+  },
+  {
+    "type": "ButterflyChest",
+    "key": "9BE6249C4C82000DC08AA78ABA386B97",
+    "video": "ImMInXddlXE",
+    "time": 527,
+    "region": "Butterflies",
+    "index": 15
+  },
+  {
+    "type": "DaedalianKey",
+    "key": "CabinetComplete1021274535103",
+    "video": "lAzaoDebGVM",
+    "time": 10,
+    "region": "Daedalian Keys",
+    "index": 1
+  },
+  {
+    "type": "DaedalianKey",
+    "key": "CabinetComplete303411566200",
+    "video": "lAzaoDebGVM",
+    "time": 35,
+    "region": "Daedalian Keys",
+    "index": 2
+  },
+  {
+    "type": "DaedalianKey",
+    "key": "CabinetComplete1184554752300",
+    "video": "lAzaoDebGVM",
+    "time": 83,
+    "region": "Daedalian Keys",
+    "index": 3
+  },
+  {
+    "type": "DaedalianKey",
+    "key": "CabinetComplete1297755855502",
+    "video": "lAzaoDebGVM",
+    "time": 133,
+    "region": "Daedalian Keys",
+    "index": 4
+  },
+  {
+    "type": "DaedalianKey",
+    "key": "CabinetComplete1811630453201",
+    "video": "lAzaoDebGVM",
+    "time": 197,
+    "region": "Daedalian Keys",
+    "index": 5
+  },
+  {
+    "type": "DaedalianKey",
+    "key": "CabinetComplete75993667499",
+    "video": "lAzaoDebGVM",
+    "time": 269,
+    "region": "Daedalian Keys",
+    "index": 6
+  },
+  {
+    "type": "DaedalianKey",
+    "key": "CabinetComplete21217052999",
+    "video": "lAzaoDebGVM",
+    "time": 312,
+    "region": "Daedalian Keys",
+    "index": 7
+  },
+  {
+    "type": "DaedalianKey",
+    "key": "CabinetComplete166268651850",
+    "video": "lAzaoDebGVM",
+    "time": 346,
+    "region": "Daedalian Keys",
+    "index": 8
+  },
+  {
+    "type": "DaedalianKey",
+    "key": "CabinetComplete9923151149",
+    "video": "lAzaoDebGVM",
+    "time": 391,
+    "region": "Daedalian Keys",
+    "index": 9
+  },
+  {
+    "type": "DaedalianKey",
+    "key": "CabinetComplete1438114581900",
+    "video": "lAzaoDebGVM",
+    "time": 439,
+    "region": "Daedalian Keys",
+    "index": 10
+  },
+  {
+    "type": "DaedalianKey",
+    "key": "CabinetComplete133725930",
+    "video": "lAzaoDebGVM",
+    "time": 482,
+    "region": "Daedalian Keys",
+    "index": 11
+  },
+  {
+    "type": "DaedalianKey",
+    "key": "CabinetComplete96371517602",
+    "video": "lAzaoDebGVM",
+    "time": 522,
+    "region": "Daedalian Keys",
+    "index": 12
+  },
+  {
+    "type": "DaedalianKey",
+    "key": "CabinetComplete144362521173",
+    "video": "lAzaoDebGVM",
+    "time": 577,
+    "region": "Daedalian Keys",
+    "index": 13
+  },
+  {
+    "type": "DaedalianKey",
+    "key": "CabinetComplete269860421200",
+    "video": "lAzaoDebGVM",
+    "time": 614,
+    "region": "Daedalian Keys",
+    "index": 14
+  },
+  {
+    "type": "DaedalianKey",
+    "key": "CabinetComplete705362383700",
+    "video": "lAzaoDebGVM",
+    "time": 672,
+    "region": "Daedalian Keys",
+    "index": 15
+  },
+  {
+    "type": "DaedalianKey",
+    "key": "CabinetComplete4214117672900",
+    "video": "lAzaoDebGVM",
+    "time": 727,
+    "region": "Daedalian Keys",
+    "index": 16
+  }
+]
