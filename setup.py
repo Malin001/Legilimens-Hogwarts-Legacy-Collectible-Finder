@@ -14,7 +14,7 @@ options = {
 
 setup(
     name='Legilimens',
-    version='1.0',
+    version='0.1.0',
     description='A tool to help you find those pesky missing collectibles in Hogwarts Legacy',
     author='Malin',
     options=options,
