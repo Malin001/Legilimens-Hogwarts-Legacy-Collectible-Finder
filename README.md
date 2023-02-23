@@ -1,6 +1,8 @@
 # Legilimens
 Legilimens is a tool to help you find your last few missing collectibles in Hogwarts Legacy and finally get that 100% completion. All you need to do is run Legilimens with your save file, and it will analyze and return a list of every collectible that you're missing, including a link to a Youtube video with a timestamp showing its location. Legilimens does **not** edit your save file, it only reads the databases contained within it.
 
+Legilimens has now been rewritten in C++ to allow for use as a completely standalone executable! Check it out [here](https://github.com/Malin001/Legilimens-Hogwarts-Legacy-cpp).
+
 You can also find this tool on [Nexus](https://www.nexusmods.com/hogwartslegacy/mods/556).
 
 #### What Legilimens can find:
