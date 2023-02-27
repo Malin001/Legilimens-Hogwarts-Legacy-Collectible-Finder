@@ -17,6 +17,13 @@ QUERIES = {'CollectionDynamic': "SELECT ItemID FROM CollectionDynamic WHERE Item
            'MiscDataDynamic': "SELECT DataName FROM MiscDataDynamic WHERE DataValue='1';",
            'MapLocationDataDynamic': "SELECT MapLocationID FROM MapLocationDataDynamic WHERE State=11;",
            'AchievementDynamic': "SELECT OneOfEach FROM AchievementDynamic WHERE AchievementID='PFA_43';"}
+AFFECTED_TYPES = {'CollectionDynamic': ['Revelio field guide pages'],
+                  'SphinxPuzzleDynamic': ['Merlin trials'],
+                  'LootDropComponentDynamic': ['Vivarium chests'],
+                  'EconomicExpiryDynamic': ['Butterfly chests'],
+                  'MiscDataDynamic': ['Brazier/Moth/Statue field guide pages', 'Daedalian Keys'],
+                  'MapLocationDataDynamic': ["Flying field guide pages", "Collection Chests", "Demiguise Moons", "Balloon Sets", "Landing Platforms", "Astronomy Tables", "Ancient Magic Hotspots", "Infamous Foes"],
+                  'AchievementDynamic': ['Finishing Touch enemies']}
 TABLES = {'Revelio': 'CollectionDynamic',
           'Merlin': 'SphinxPuzzleDynamic',
           'VivariumChest': 'LootDropComponentDynamic',
@@ -166,6 +173,7 @@ class Legilimens:
             # Read sql tables
             save_file = self._get_save_file()
             sql_data = dict()
+            errors = list()
             with SaveReader(save_file) as save:
                 for table, query in QUERIES.items():
                     try:
@@ -174,9 +182,13 @@ class Legilimens:
                             sql_data[table] = set(list(sql_data[table])[0].split(','))
                             sql_data[table].discard('')
                     except sqlite3.DatabaseError:
-                        pass
+                        errors += AFFECTED_TYPES[table]
             if len(sql_data) == 0:
                 return f'Legilimens was unable to read the database in your save file'
+            if errors:
+                print('SQLite was unable to read parts of the database')
+                print("The following collectible types were affected and won't work correctly:")
+                print(', '.join(errors))
             # Find collectibles
             for collectible in self._collectibles:
                 if TABLES[collectible['type']] in sql_data:
