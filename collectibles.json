@@ -5318,5 +5318,277 @@
     "time": 727,
     "region": "Daedalian Keys",
     "index": 16
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "Dugbog_Coast",
+    "video": "3rTORHz1yPM",
+    "time": 0,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Stoneback Dugbog"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "Dugbog_Marsh",
+    "video": "3rTORHz1yPM",
+    "time": 77,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Cottongrass Dugbog"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "Dugbog_Lake",
+    "video": "3rTORHz1yPM",
+    "time": 141,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Great Spined Dugbog"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "DW_Extortionist_Grunt",
+    "video": "3rTORHz1yPM",
+    "time": 201,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Ashwinder Scout"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "DW_Extortionist_Captain",
+    "video": "3rTORHz1yPM",
+    "time": 264,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Ashwinder Duellist"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "DW_Extortionist_Sniper",
+    "video": "3rTORHz1yPM",
+    "time": 321,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Ashwinder Ranger"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "DW_Extortionist_Soldier",
+    "video": "3rTORHz1yPM",
+    "time": 360,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Ashwinder Soldier"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "DW_Poacher_Grunt",
+    "video": "3rTORHz1yPM",
+    "time": 400,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Poacher Tracker"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "DW_Extortionist_Mage",
+    "video": "3rTORHz1yPM",
+    "time": 438,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Ashwinder Assassin"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "DW_Poacher_Mage",
+    "video": "3rTORHz1yPM",
+    "time": 491,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Poacher Animagus"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "DW_Poacher_Captain",
+    "video": "3rTORHz1yPM",
+    "time": 543,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Poacher Duellist"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "DW_Poacher_Soldier",
+    "video": "3rTORHz1yPM",
+    "time": 581,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Poacher Stalker"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "DW_Poacher_Tank",
+    "video": "3rTORHz1yPM",
+    "time": 627,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Poacher Executioner"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "DW_Poacher_Sniper",
+    "video": "3rTORHz1yPM",
+    "time": 681,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Poacher Ranger"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "DW_Extortionist_Tank",
+    "video": "3rTORHz1yPM",
+    "time": 725,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Ashwinder Executioner"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "GoblinMelee",
+    "video": "3rTORHz1yPM",
+    "time": 777,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Loyalist Warrior"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "GoblinMage",
+    "video": "3rTORHz1yPM",
+    "time": 830,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Loyalist Sentinel"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "GoblinSniper",
+    "video": "3rTORHz1yPM",
+    "time": 864,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Loyalist Ranger"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "GoblinAssassin",
+    "video": "3rTORHz1yPM",
+    "time": 900,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Loyalist Assassin"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "GoblinChieftain",
+    "video": "3rTORHz1yPM",
+    "time": 942,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Loyalist Commander"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "Inferius",
+    "video": "3rTORHz1yPM",
+    "time": 1008,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Inferius"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "Wolf",
+    "video": "3rTORHz1yPM",
+    "time": 1057,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Dark Mongrel"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "Troll_Armored",
+    "video": "3rTORHz1yPM",
+    "time": 1106,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Armoured Troll"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "Troll_River",
+    "video": "3rTORHz1yPM",
+    "time": 1174,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "River Troll"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "Troll_Forest",
+    "video": "3rTORHz1yPM",
+    "time": 1220,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Forest Troll"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "Troll_Armored_2",
+    "video": "3rTORHz1yPM",
+    "time": 1274,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Fortified Troll"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "Troll_Mountain",
+    "video": "3rTORHz1yPM",
+    "time": 1331,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Mountain Troll"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "SpiderVenomous",
+    "video": "3rTORHz1yPM",
+    "time": 1377,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Venomous Scurriour"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "SpiderVenomousTank",
+    "video": "3rTORHz1yPM",
+    "time": 1424,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Venomous Matriarch"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "SpiderWoodlouse",
+    "video": "3rTORHz1yPM",
+    "time": 1465,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Thornback Scurriour"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "SpiderWoodlouseSpitter",
+    "video": "3rTORHz1yPM",
+    "time": 1508,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Thornback Shooter"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "SpiderWoodlouseTank",
+    "video": "3rTORHz1yPM",
+    "time": 1553,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Thornback Matriarch"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "SpiderWoodlouseSniper",
+    "video": "3rTORHz1yPM",
+    "time": 1597,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Thornback Ambusher"
+  },
+  {
+    "type": "FinishingTouchEnemy",
+    "key": "SpiderVenomousSpitter",
+    "video": "3rTORHz1yPM",
+    "time": 1644,
+    "region": "Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)",
+    "index": "Venomous Ambusher"
   }
 ]

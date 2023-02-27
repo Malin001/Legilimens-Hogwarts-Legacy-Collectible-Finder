@@ -15,7 +15,8 @@ QUERIES = {'CollectionDynamic': "SELECT ItemID FROM CollectionDynamic WHERE Item
            'LootDropComponentDynamic': "SELECT LootGroup FROM LootDropComponentDynamic;",
            'EconomicExpiryDynamic': "SELECT UniqueID FROM EconomicExpiryDynamic;",
            'MiscDataDynamic': "SELECT DataName FROM MiscDataDynamic WHERE DataValue='1';",
-           'MapLocationDataDynamic': "SELECT MapLocationID FROM MapLocationDataDynamic WHERE State=11;"}
+           'MapLocationDataDynamic': "SELECT MapLocationID FROM MapLocationDataDynamic WHERE State=11;",
+           'AchievementDynamic': "SELECT OneOfEach FROM AchievementDynamic WHERE AchievementID='PFA_43';"}
 TABLES = {'Revelio': 'CollectionDynamic',
           'Merlin': 'SphinxPuzzleDynamic',
           'VivariumChest': 'LootDropComponentDynamic',
@@ -34,7 +35,8 @@ TABLES = {'Revelio': 'CollectionDynamic',
           'Landing': 'MapLocationDataDynamic',
           'Balloon': 'MapLocationDataDynamic',
           'AncientMagic': 'MapLocationDataDynamic',
-          'Foe': 'MapLocationDataDynamic'}
+          'Foe': 'MapLocationDataDynamic',
+          'FinishingTouchEnemy': 'AchievementDynamic'}
 NAMES = {'Revelio': ('Field guide page', 'Revelio'),
          'Merlin': ('Merlin Trial', ''),
          'VivariumChest': ('Collection Chest', 'Vivarium'),
@@ -53,7 +55,8 @@ NAMES = {'Revelio': ('Field guide page', 'Revelio'),
          'Balloon': ('Balloon Set', ''),
          'AncientMagic': ('Ancient Magic Hotspot', ''),
          'Foe': ('Infamous Foe', ''),
-         'DaedalianKey': ('Daedalian Key', '')}
+         'DaedalianKey': ('Daedalian Key', ''),
+         'FinishingTouchEnemy': ('Finishing Touch Enemy', '')}
 REGIONS = {'The Library Annex': 'Hogwarts',
            'The Astronomy Wing': 'Hogwarts',
            'The Bell Tower Wing': 'Hogwarts',
@@ -77,7 +80,8 @@ REGIONS = {'The Library Annex': 'Hogwarts',
            'Clagmar Coast': 'The Highlands',
            'Vivariums': 'Hogwarts',
            'Butterflies': '',
-           'Daedalian Keys': ''}
+           'Daedalian Keys': '',
+           'Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)': 'Achievements'}
 DIR_NAME = os.path.dirname(sys.argv[0])
 TITLE = r"""
   _                _ _ _                          
@@ -150,7 +154,7 @@ class Legilimens:
         file = parser.parse_args().file
         # If no file was given, prompt the user to input it instead
         if not file:
-            file = input('.sav file path: ')
+            file = input('.sav file path: ').strip()
             if file and file[0] == '"' and file[-1] == '"':
                 file = file[1:-1]
         return file
@@ -164,10 +168,21 @@ class Legilimens:
             sql_data = dict()
             with SaveReader(save_file) as save:
                 for table, query in QUERIES.items():
-                    sql_data[table] = set(map(lambda x: x[0], save.execute_query(query)))
+                    try:
+                        sql_data[table] = set(map(lambda x: x[0], save.execute_query(query)))
+                        if table == 'AchievementDynamic' and len(sql_data[table]) > 0:
+                            sql_data[table] = set(list(sql_data[table])[0].split(','))
+                            sql_data[table].discard('')
+                    except sqlite3.DatabaseError:
+                        pass
+            if len(sql_data) == 0:
+                return f'Legilimens was unable to read the database in your save file'
             # Find collectibles
             for collectible in self._collectibles:
-                collectible['collected'] = (collectible['key'] in sql_data[TABLES[collectible['type']]])
+                if TABLES[collectible['type']] in sql_data:
+                    collectible['collected'] = (collectible['key'] in sql_data[TABLES[collectible['type']]])
+                else:
+                    collectible['collected'] = False
             return ''
         except FileNotFoundError:
             return f'The file "{save_file}" couldn\'t be found'
@@ -177,8 +192,11 @@ class Legilimens:
     # Converts a collectible dict into a string
     @staticmethod
     def _collectible_str(collectible: Dict[str, str | int]) -> str:
-        name1, name2 = NAMES[collectible['type']]
-        s = f'{name1} #{collectible["index"]}'
+        s, name2 = '', ''
+        if collectible['type'] != 'FinishingTouchEnemy':
+            name1, name2 = NAMES[collectible['type']]
+            s += f'{name1} #'
+        s += f'{collectible["index"]}'
         if name2:
             s += f' ({name2})'
         return s + f' - https://youtu.be/{collectible["video"]}&t={collectible["time"]}'
@@ -220,7 +238,7 @@ def main():
     try:
         Legilimens().run()
     except Exception:
-        print(f'Legilimens encountered an unexpected error:')
+        print(f'Legilimens encountered an unexpected error')
         traceback.print_exc()
         print('If the problem persists, you can create an issue on GitHub with your save file attached:')
         print('https://github.com/Malin001/Legilimens-Hogwarts-Legacy-Collectible-Finder/issues')
