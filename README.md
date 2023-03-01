@@ -45,6 +45,10 @@ Legilimens is available both as an executable file for convenience, and as a Pyt
 3. Legilimens will write to the file `output.txt` instead. Remember to hit enter for the "Press enter to close this window..." even though it doesn't appear on screen
 
 ## FAQ
+#### Legilimens says I'm missing Butterfly Chest #1, but there aren't any butterflies there and I've already done the "Follow the Butterflies" quest?
+- This is a known bug with Hogwarts Legacy, where following any of the other 14 butterflies allows you to complete the quest, which then prevents the intended quest butterflies from ever appearing. Legilimens doesn't have a fix for this, but I believe there are some save editors which can reactivate the quest and allow you to get the last butterflies.
+#### I'm missing a single conjuration exploration collectible, but Legilimens doesn't detect anything?
+- This is almost certainly another [bug in the game](https://hogwartslegacy.bugs.wbgames.com/bug/HL-3868). I don't know what causes it. I don't know how to fix it. I've spent hours looking at my code and at saves that people have sent me with this problem, and I haven't found anything that indicates it's a problem with Legilimens. If this bug happens to you and you manage to find where the last conjuration is, *please* let me know so I can update this tool.
 #### I have 33/34 Field Guide Pages in The Bell Tower Wing, but Legilimens says I've completed them all. Where is it?
 - This is a known bug in Hogwarts Legacy that has since been patched, where a certain Bell Tower Wing [flying page](https://youtu.be/KnHZ5gVb_qk&t=104) doesn't count towards your total.
 #### Legilimens says that I'm missing something that I've already collected, or doesn't detect all of my missing collectibles, or links to the wrong Youtube video/timestamp, or any other error.
