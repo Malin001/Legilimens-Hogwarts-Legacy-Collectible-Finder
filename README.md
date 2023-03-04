@@ -17,7 +17,7 @@ You can also find this tool on [Nexus](https://www.nexusmods.com/hogwartslegacy/
 - Landing Platforms
 - Ancient Magic Hotspots
 - Infamous Foes
-- "Finishing Touch" achievement enemies (EXPERIMENTAL, LIKELY BROKEN)
+- "Finishing Touch" achievement enemies (inconsistent)
 
 #### What it *can't* find:
 - Items that you are *required* to get during a quest. For example, there are two field guide pages that you are forced to pick up during the History of Magic class quest
@@ -25,23 +25,22 @@ You can also find this tool on [Nexus](https://www.nexusmods.com/hogwartslegacy/
 - Collectible items that are rewards for completing quests
 
 ## Usage
-Legilimens is available both as an executable file for convenience, and as a Python script for those wary of viruses so that you can actually see the code that you're running. Note that you can likely find your save files in `C:/Users/<user>/AppData/Local/HogwartsLegacy/Saved/SaveGames/<user_id>/`
+There's now a video guide, available [here](https://www.youtube.com/watch?v=wWsCV8JuCGo)
 
-#### How to use the executable:
-1. Download and extract the latest [Legilimens executable release](https://github.com/Malin001/Legilimens-Hogwarts-Legacy-Collectible-Finder/releases/latest).
-2. Either drag your `.sav` file onto `legilimens.exe`, or just run `legilimens.exe` and input the path to your `.sav` file when prompted.
-![preview](images/exe1.gif)
-![preview](images/exe2.gif)
+Legilimens is available both as an executable file for convenience, and as a Python script for those wary of viruses so that you can actually see the code that you're running. Note that you can likely find your save files in `C:/Users/<user>/AppData/Local/HogwartsLegacy/Saved/SaveGames/<user_id>/`
 
 #### How to use the Python script:
 1. Install any version of [Python 3](https://www.python.org/downloads/). I've only tested it with Python 3.10, but it should work with earlier/later versions as well.
 2. Download and extract the latest [Legilimens Python release](https://github.com/Malin001/Legilimens-Hogwarts-Legacy-Collectible-Finder/releases/latest). You should end up with `legilimens.py` and `collectibles.json` in the same folder.
 3. Either drag your `.sav` file onto `legilimens.py`, or run the script with `python "<path>/<to>/legilimens.py" "<path>/<to>/<your>/<save>/<file>.sav"`, or just run `python "<path>/<to>/legilimens.py"` and input the path to your `.sav` file when prompted.
-![preview](images/python1.gif)
+
+#### How to use the executable:
+1. Download and extract the latest [Legilimens executable release](https://github.com/Malin001/Legilimens-Hogwarts-Legacy-Collectible-Finder/releases/latest).
+2. Either drag your `.sav` file onto `legilimens.exe`, or just run `legilimens.exe` and input the path to your `.sav` file when prompted.
 
 #### How to output to a text file
-1. First, open the command prompt and navigate to the folder containing `Legilimens.exe` or `legilimens.py` by running `cd path/to/legilimens/folder`
-2. Then, you can run `Legilimens.exe path/to/your/save/file.sav > output.txt` or `python legilimens.py path/to/your/save/file.sav > output.txt`
+1. First, open the command prompt and navigate to the folder containing `legilimens.exe` or `legilimens.py` by running `cd path/to/legilimens/folder`
+2. Then, you can run `legilimens.exe path/to/your/save/file.sav > output.txt` or `python legilimens.py path/to/your/save/file.sav > output.txt`
 3. Legilimens will write to the file `output.txt` instead. Remember to hit enter for the "Press enter to close this window..." even though it doesn't appear on screen
 
 ## FAQ
@@ -64,6 +63,7 @@ If you want the convenience of the executable release, while still knowing exact
 4. The folder containing the executable and dependencies should now be located in `build/`
 
 ## Credit
-- Thanks to [100% Guides](https://www.youtube.com/@100Guides), [Game Guides Channel](https://www.youtube.com/@GameGuideslolz), [ZaFrostPet](https://www.youtube.com/@ZaFrostPet), and [Lukinator 2321](https://www.youtube.com/@lukinator2321) on Youtube for making the videos that Legilimens links to.
-- Also thanks to [ekaomk](https://github.com/ekaomk/Hogwarts-Legacy-Save-Editor), whose Hogwarts Legacy Save Editor code I looked at to learn how to read the save files.
+- Thanks to [100% Guides](https://www.youtube.com/@100Guides), [Game Guides Channel](https://www.youtube.com/@GameGuideslolz), and [Lukinator 2321](https://www.youtube.com/@lukinator2321) on Youtube for making the videos that Legilimens links to.
+- Thanks to [ekaomk](https://github.com/ekaomk/Hogwarts-Legacy-Save-Editor), whose Hogwarts Legacy Save Editor code I looked at to learn how to read the save files, and who created a fix to the butterfly quest bug
+- Thanks to [kaivar](https://www.nexusmods.com/hogwartslegacy/mods/832) for creating a fix for the 139/140 conjuration bug
 - Thanks to [lillaka](https://www.nexusmods.com/users/2211740) for not only giving me ideas to improve the mod, but actually implementing those ideas and giving me the code

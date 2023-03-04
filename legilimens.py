@@ -16,14 +16,18 @@ QUERIES = {'CollectionDynamic': "SELECT ItemID FROM CollectionDynamic WHERE Item
            'EconomicExpiryDynamic': "SELECT UniqueID FROM EconomicExpiryDynamic;",
            'MiscDataDynamic': "SELECT DataName FROM MiscDataDynamic WHERE DataValue='1';",
            'MapLocationDataDynamic': "SELECT MapLocationID FROM MapLocationDataDynamic WHERE State=11;",
-           'AchievementDynamic': "SELECT OneOfEach FROM AchievementDynamic WHERE AchievementID='PFA_43';"}
+           'AchievementDynamic': "SELECT OneOfEach FROM AchievementDynamic WHERE AchievementID='PFA_43';",
+           'PlayerStatsDynamic': "SELECT ActivityName FROM PlayerStatsDynamic WHERE ActivityValue='Complete';",
+           'CollectionDynamic2': "SELECT ItemID FROM CollectionDynamic WHERE ItemState='Obtained' AND SubcategoryID='Exploration' AND CategoryID='Conjurations';"}
 AFFECTED_TYPES = {'CollectionDynamic': ['Revelio field guide pages'],
                   'SphinxPuzzleDynamic': ['Merlin trials'],
                   'LootDropComponentDynamic': ['Vivarium chests'],
                   'EconomicExpiryDynamic': ['Butterfly chests'],
                   'MiscDataDynamic': ['Brazier/Moth/Statue field guide pages', 'Daedalian Keys'],
                   'MapLocationDataDynamic': ["Flying field guide pages", "Collection Chests", "Demiguise Moons", "Balloon Sets", "Landing Platforms", "Astronomy Tables", "Ancient Magic Hotspots", "Infamous Foes"],
-                  'AchievementDynamic': ['Finishing Touch enemies']}
+                  'AchievementDynamic': ['Finishing Touches enemies'],
+                  'PlayerStatsDynamic': ['Butterfly quest bug detector'],
+                  'CollectionDynamic2': ['Conjuration bug detector']}
 TABLES = {'Revelio': 'CollectionDynamic',
           'Merlin': 'SphinxPuzzleDynamic',
           'VivariumChest': 'LootDropComponentDynamic',
@@ -34,7 +38,8 @@ TABLES = {'Revelio': 'CollectionDynamic',
           'DaedalianKey': 'MiscDataDynamic',
           'Flying': 'MapLocationDataDynamic',
           'ArithmancyChest': 'MapLocationDataDynamic',
-          'MiscChest': 'MapLocationDataDynamic',
+          'MiscConjChest': 'MapLocationDataDynamic',
+          'MiscWandChest': 'MapLocationDataDynamic',
           'DungeonChest': 'MapLocationDataDynamic',
           'CampChest': 'MapLocationDataDynamic',
           'Demiguise': 'MapLocationDataDynamic',
@@ -53,7 +58,8 @@ NAMES = {'Revelio': ('Field guide page', 'Revelio'),
          'Statue': ('Field guide page', 'Levioso statue'),
          'Flying': ('Field guide page', 'Flying'),
          'ArithmancyChest': ('Collection Chest', 'Arithmancy door'),
-         'MiscChest': ('Collection Chest', ''),
+         'MiscConjChest': ('Collection Chest', ''),
+         'MiscWandChest': ('Collection Chest', ''),
          'DungeonChest': ('Collection Chest', 'Dungeon'),
          'CampChest': ('Collection Chest', 'Bandit camp'),
          'Demiguise': ('Demiguise Moon', ''),
@@ -88,7 +94,7 @@ REGIONS = {'The Library Annex': 'Hogwarts',
            'Vivariums': 'Hogwarts',
            'Butterflies': '',
            'Daedalian Keys': '',
-           'Finishing Touch (EXPERIMENTAL, LIKELY BROKEN)': 'Achievements'}
+           'Finishing Touches': 'Achievements'}
 DIR_NAME = os.path.dirname(sys.argv[0])
 TITLE = r"""
   _                _ _ _                          
@@ -128,10 +134,11 @@ class SaveReader:
         # Connect with sqlite3
         self._conn = sqlite3.connect(db_file)
         self._cur = self._conn.cursor()
-        # Check that the needed database tables exist
+        # Check that we can execute queries
         self._cur.execute("SELECT name FROM sqlite_master WHERE type='table';")
-        tables = set(map(lambda x: x[0], self._cur.fetchall()))
-        assert tables.issuperset(QUERIES.keys()), 'Necessary tables not found'
+        _ = list(self._cur.fetchall())
+        # tables = set(map(lambda x: x[0], self._cur.fetchall()))
+        # assert tables.issuperset(QUERIES.keys()), 'Necessary tables not found'
         return self
 
     def __exit__(self, exc_type: Optional[Type[BaseException]], exc_val: Optional[BaseException], exc_tb: Optional[TracebackType]) -> bool:
@@ -151,6 +158,7 @@ class SaveReader:
 class Legilimens:
     def __init__(self):
         self._collectibles: List[Dict[str, str | int]] = json.load(open(os.path.join(DIR_NAME, 'collectibles.json')))
+        self._bugs = {'butterfly': False, 'conjuration': False}
 
     # Gets the path to save file either as a command line argument or as user input
     @staticmethod
@@ -178,8 +186,8 @@ class Legilimens:
                 for table, query in QUERIES.items():
                     try:
                         sql_data[table] = set(map(lambda x: x[0], save.execute_query(query)))
-                        if table == 'AchievementDynamic' and len(sql_data[table]) > 0:
-                            sql_data[table] = set(list(sql_data[table])[0].split(','))
+                        if table == 'AchievementDynamic':
+                            sql_data[table] = {k for row in sql_data[table] for k in row.split(',')}
                             sql_data[table].discard('')
                     except sqlite3.DatabaseError:
                         errors += AFFECTED_TYPES[table]
@@ -195,6 +203,15 @@ class Legilimens:
                     collectible['collected'] = (collectible['key'] in sql_data[TABLES[collectible['type']]])
                 else:
                     collectible['collected'] = False
+            # Check for butterfly bug
+            if all(table in sql_data for table in ('EconomicExpiryDynamic', 'PlayerStatsDynamic')):
+                if 'PlayerStatsDynamic' in sql_data and 'COM_11' in sql_data['PlayerStatsDynamic'] and any(c['type'] == 'ButterflyChest' and c['index'] == 1 and not c['collected'] for c in self._collectibles):
+                    self._bugs['butterfly'] = True
+            # Check for conjuration bug
+            if all(table in sql_data for table in ('CollectionDynamic2', 'LootDropComponentDynamic', 'EconomicExpiryDynamic', 'MapLocationDataDynamic')):
+                chests_opened = sum(1 for c in self._collectibles if c['collected'] and c['type'] in ('MiscConjChest', 'ArithmancyChest', 'DungeonChest', 'ButterflyChest', 'VivariumChest'))
+                if 'CollectionDynamic2' in sql_data and chests_opened > len(sql_data['CollectionDynamic2']):
+                    self._bugs['conjuration'] = True
             return ''
         except FileNotFoundError:
             return f'The file "{save_file}" couldn\'t be found'
@@ -211,14 +228,18 @@ class Legilimens:
         s += f'{collectible["index"]}'
         if name2:
             s += f' ({name2})'
-        return s + f' - https://youtu.be/{collectible["video"]}&t={collectible["time"]}'
+        if collectible["video"]:
+            s += f' - https://youtu.be/{collectible["video"]}&t={collectible["time"]}'
+        else:
+            s += ' - No video yet'
+        return s
 
     # Converts the missing collectibles in the given region to a string
     def _print_region(self, region: str) -> None:
         missing = [collectible for collectible in self._collectibles if collectible['region'] == region]
         if not missing:
             return
-        videos = [f'https://youtu.be/{video_id}' for video_id in sorted(set(map(lambda c: c['video'], missing)))]
+        videos = [f'https://youtu.be/{video_id}' for video_id in sorted(set(map(lambda c: c['video'], missing))) if video_id]
         if REGIONS[region]:
             print(f'\n{REGIONS[region]} - {region} ({", ".join(videos)})')
         else:
@@ -226,6 +247,12 @@ class Legilimens:
         missing.sort(key=lambda c: f"{c['video']} {str(c['time']).zfill(4)} {c['type']} {c['index']}")
         for collectible in missing:
             print(f'\t{self._collectible_str(collectible)}')
+
+    def _print_bug_output(self):
+        if self._bugs['butterfly']:
+            print("\nYour save seems to be affected by the butterfly quest bug. If you're unable to collect\nButterfly Chest #1, consider using https://hogwarts-legacy-save-editor.vercel.app to fix it.")
+        if self._bugs['conjuration']:
+            print("\nYour save seems to be affected by the 139/140 conjuration bug. If you can't find your last\nexploration conjuration, consider using https://www.nexusmods.com/hogwartslegacy/mods/832 to fix it.")
 
     def run(self) -> None:
         # Read save file
@@ -237,11 +264,13 @@ class Legilimens:
         regions = sorted(set(map(lambda c: c['region'], self._collectibles)))
         if not regions:
             print("Congratulations! You've gotten every collectible that Legilimens can detect")
-            print('If you expected Legilimens to detect something, you can create an issue on GitHub with your save file attached:')
+            self._print_bug_output()
+            print('\nIf you expected Legilimens to detect something, you can create an issue on GitHub with your save file attached:')
             print('https://github.com/Malin001/Legilimens-Hogwarts-Legacy-Collectible-Finder/issues')
             return
         regions.sort(key=lambda r: REGIONS[r])
         [self._print_region(region) for region in regions]
+        self._print_bug_output()
 
 
 # Main functions
