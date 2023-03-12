@@ -250,7 +250,7 @@ class Legilimens:
 
     def _print_bug_output(self):
         if self._bugs['butterfly']:
-            print("\nYour save seems to be affected by the butterfly quest bug. If you're unable to collect\nButterfly Chest #1, consider using https://hogwarts-legacy-save-editor.vercel.app to fix it.")
+            print("\nYour save seems to be affected by the butterfly quest bug. If you're unable to collect Butterfly Chest #1,\nconsider using https://hogwarts-legacy-save-editor.vercel.app or https://www.nexusmods.com/hogwartslegacy/mods/778 to fix it.")
         if self._bugs['conjuration']:
             print("\nYour save seems to be affected by the 139/140 conjuration bug. If you can't find your last\nexploration conjuration, consider using https://www.nexusmods.com/hogwartslegacy/mods/832 to fix it.")
 

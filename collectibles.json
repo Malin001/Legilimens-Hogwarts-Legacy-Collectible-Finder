@@ -2515,7 +2515,7 @@
     "type": "DungeonChest",
     "key": "Chest_Dungeon_ConjurationsRecipe_Cav05_X=-42200 Y=13456 Z=-1786",
     "video": "M8lTSHCqKj0",
-    "time": 100,
+    "time": 166,
     "region": "Hogsmeade Valley",
     "index": 4
   },
@@ -2563,7 +2563,7 @@
     "type": "MiscConjChest",
     "key": "Chest_HAM_Conjuration_HNG_AS_F_X=400173 Y=-565447 Z=-79966",
     "video": "M8lTSHCqKj0",
-    "time": 369,
+    "time": 398,
     "region": "Hogsmeade Valley",
     "index": 6
   },
@@ -2579,7 +2579,7 @@
     "type": "MiscWandChest",
     "key": "Chest_HAM_WandSkin_HNG_AS_F_X=400000 Y=-563071 Z=-79934",
     "video": "M8lTSHCqKj0",
-    "time": 369,
+    "time": 419,
     "region": "Hogsmeade Valley",
     "index": 7
   },
@@ -2587,7 +2587,7 @@
     "type": "MiscWandChest",
     "key": "Chest_HAM_WandSkin_HNG_AS_F_X=405990 Y=-561019 Z=-80052",
     "video": "M8lTSHCqKj0",
-    "time": 369,
+    "time": 432,
     "region": "Hogsmeade Valley",
     "index": 8
   },
@@ -3027,7 +3027,7 @@
     "type": "MiscConjChest",
     "key": "Chest_HAM_Conjuration_HNA_BJ_F_X=429991 Y=-387866 Z=-82276",
     "video": "DgldMhGeCyU",
-    "time": 2251,
+    "time": 2310,
     "region": "Hogwarts Valley",
     "index": 13
   },
@@ -3035,7 +3035,7 @@
     "type": "MiscConjChest",
     "key": "Chest_HAM_Conjuration_HNA_BJ_F_X=427282 Y=-380911 Z=-82285",
     "video": "DgldMhGeCyU",
-    "time": 2251,
+    "time": 2272,
     "region": "Hogwarts Valley",
     "index": 11
   },
@@ -3059,7 +3059,7 @@
     "type": "MiscWandChest",
     "key": "Chest_HAM_WandSkin_HNA_BJ_F_X=433036 Y=-378437 Z=-82285",
     "video": "DgldMhGeCyU",
-    "time": 2251,
+    "time": 2290,
     "region": "Hogwarts Valley",
     "index": 12
   },
@@ -3107,7 +3107,7 @@
     "type": "Foe",
     "key": "INT_Kill_NamedTrollRiver1",
     "video": "DgldMhGeCyU",
-    "time": 2513,
+    "time": 2514,
     "region": "Hogwarts Valley",
     "index": 4
   },
@@ -3203,7 +3203,7 @@
     "type": "DungeonChest",
     "key": "Chest_Dungeon_ConjurationsRecipe_GobMine07_X=7213 Y=31 Z=2495",
     "video": "DgldMhGeCyU",
-    "time": 1409,
+    "time": 1560,
     "region": "Hogwarts Valley",
     "index": 8
   },
@@ -3291,7 +3291,7 @@
     "type": "Foe",
     "key": "INT_Kill_NamedWolf2",
     "video": "DgldMhGeCyU",
-    "time": 722,
+    "time": 779,
     "region": "Hogwarts Valley",
     "index": 2
   },
@@ -3331,7 +3331,7 @@
     "type": "MiscConjChest",
     "key": "Chest_HAM_Conjuration_HS_AR_Keenbridge_Interior_GamePlay01_X=373605 Y=-322229 Z=-89613",
     "video": "DgldMhGeCyU",
-    "time": 1019,
+    "time": 1079,
     "region": "Hogwarts Valley",
     "index": 6
   },
@@ -3347,7 +3347,7 @@
     "type": "Revelio",
     "key": "LORE_Overland_Ginger",
     "video": "DgldMhGeCyU",
-    "time": 1097,
+    "time": 1115,
     "region": "Hogwarts Valley",
     "index": 6
   },
@@ -3355,7 +3355,7 @@
     "type": "Revelio",
     "key": "LORE_Overland_Beehives",
     "video": "DgldMhGeCyU",
-    "time": 1097,
+    "time": 1124,
     "region": "Hogwarts Valley",
     "index": 7
   },
@@ -3363,7 +3363,7 @@
     "type": "MiscWandChest",
     "key": "Chest_HAM_WandSkin_HS_AR_Keenbridge_Interior_GamePlay01_X=379597 Y=-319207 Z=-90320",
     "video": "DgldMhGeCyU",
-    "time": 1019,
+    "time": 1064,
     "region": "Hogwarts Valley",
     "index": 5
   },
@@ -3371,7 +3371,7 @@
     "type": "MiscWandChest",
     "key": "Chest_HAM_WandSkin_HS_AR_Keenbridge_Interior_GamePlay01_X=375619 Y=-317453 Z=-89937",
     "video": "DgldMhGeCyU",
-    "time": 1019,
+    "time": 1035,
     "region": "Hogwarts Valley",
     "index": 4
   },
@@ -3555,7 +3555,7 @@
     "type": "MiscConjChest",
     "key": "Chest_HAM_Conjuration_HS_AY_F_X=335452 Y=-248552 Z=-89196",
     "video": "E7mo2BZHa4Q",
-    "time": 113,
+    "time": 137,
     "region": "Feldcroft Region",
     "index": 2
   },
@@ -3563,7 +3563,7 @@
     "type": "MiscWandChest",
     "key": "Chest_HAM_WandSkin_HS_AY_F_X=329101 Y=-255482 Z=-85937",
     "video": "E7mo2BZHa4Q",
-    "time": 113,
+    "time": 168,
     "region": "Feldcroft Region",
     "index": 3
   },
@@ -3747,7 +3747,7 @@
     "type": "MiscConjChest",
     "key": "Chest_HAM_Conjuration_HS_AW_F_X=261039 Y=-272035 Z=-92563",
     "video": "E7mo2BZHa4Q",
-    "time": 1160,
+    "time": 1190,
     "region": "Feldcroft Region",
     "index": 13
   },
@@ -3755,7 +3755,7 @@
     "type": "MiscConjChest",
     "key": "Chest_HAM_Conjuration_HS_AW_F_X=265362 Y=-274624 Z=-92320",
     "video": "E7mo2BZHa4Q",
-    "time": 1160,
+    "time": 1214,
     "region": "Feldcroft Region",
     "index": 14
   },
@@ -3763,7 +3763,7 @@
     "type": "MiscWandChest",
     "key": "Chest_HAM_WandSkin_HS_AW_F_X=265109 Y=-274192 Z=-92623",
     "video": "E7mo2BZHa4Q",
-    "time": 1160,
+    "time": 1249,
     "region": "Feldcroft Region",
     "index": 15
   },
@@ -3779,7 +3779,7 @@
     "type": "Revelio",
     "key": "LORE_Overland_Dummies",
     "video": "E7mo2BZHa4Q",
-    "time": 1256,
+    "time": 1279,
     "region": "Feldcroft Region",
     "index": 5
   },
@@ -3843,7 +3843,7 @@
     "type": "CampChest",
     "key": "Chest_BCC_GearTrait_X=245012 Y=-285463 Z=-91007",
     "video": "E7mo2BZHa4Q",
-    "time": 1500,
+    "time": 1517,
     "region": "Feldcroft Region",
     "index": 17
   },
@@ -4011,7 +4011,7 @@
     "type": "DungeonChest",
     "key": "Chest_Dungeon_ConjurationsRecipe_Cairn3_X=-10741 Y=-17239 Z=1893",
     "video": "E7mo2BZHa4Q",
-    "time": 703,
+    "time": 749,
     "region": "Feldcroft Region",
     "index": 10
   },
@@ -4027,7 +4027,7 @@
     "type": "DungeonChest",
     "key": "Chest_Dungeon_ConjurationsRecipe_Cairn13_X=1214 Y=6090 Z=-1267",
     "video": "E7mo2BZHa4Q",
-    "time": 326,
+    "time": 394,
     "region": "Feldcroft Region",
     "index": 5
   },
@@ -4619,7 +4619,7 @@
     "type": "Foe",
     "key": "INT_Kill_Inferius3",
     "video": "gYs24rpRPZ0",
-    "time": 299,
+    "time": 338,
     "region": "Manor Cape",
     "index": 2
   },
@@ -4699,7 +4699,7 @@
     "type": "DungeonChest",
     "key": "Chest_Dungeon_ConjurationsRecipe_Castle10_X=4218 Y=-3048 Z=-379",
     "video": "gYs24rpRPZ0",
-    "time": 418,
+    "time": 722,
     "region": "Manor Cape",
     "index": 7
   },

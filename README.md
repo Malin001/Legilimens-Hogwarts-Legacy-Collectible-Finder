@@ -45,7 +45,7 @@ Legilimens is available both as an executable file for convenience, and as a Pyt
 
 ## FAQ
 #### Legilimens says I'm missing Butterfly Chest #1, but there aren't any butterflies there and I've already done the "Follow the Butterflies" quest?
-- This is a known bug with Hogwarts Legacy, where following any of the other 14 butterflies allows you to complete the quest, which then prevents the intended quest butterflies from ever appearing. [This](https://hogwarts-legacy-save-editor.vercel.app) save editor has a fix for it, but I haven't tested it myself and take no responsibility for it, so make sure you backup your save before using it!
+- This is a known bug with Hogwarts Legacy, where following any of the other 14 butterflies allows you to complete the quest, which then prevents the intended quest butterflies from ever appearing. [This](https://hogwarts-legacy-save-editor.vercel.app) save editor has a fix for it, as does [this](https://www.nexusmods.com/hogwartslegacy/mods/778) mod, but I haven't tested either one myself and take no responsibility for them, so make sure you backup your save before using them!
 #### I'm missing a single conjuration exploration collectible, but Legilimens doesn't detect anything?
 - This is almost certainly another [bug in the game](https://hogwartslegacy.bugs.wbgames.com/bug/HL-3868), and I haven't found anything that indicates it's a problem with Legilimens. [This](https://www.nexusmods.com/hogwartslegacy/mods/832) mod has a fix for it, but I haven't tested it myself and take no responsibility for it, so make sure you backup your save before using it!
 #### I have 33/34 Field Guide Pages in The Bell Tower Wing, but Legilimens says I've completed them all. Where is it?
@@ -68,6 +68,6 @@ If you want the convenience of the executable release, while still knowing exact
 
 ## Credit
 - Thanks to [100% Guides](https://www.youtube.com/@100Guides), [Game Guides Channel](https://www.youtube.com/@GameGuideslolz), and [Lukinator 2321](https://www.youtube.com/@lukinator2321) on Youtube for making the videos that Legilimens links to.
-- Thanks to [ekaomk](https://github.com/ekaomk/Hogwarts-Legacy-Save-Editor), whose Hogwarts Legacy Save Editor code I looked at to learn how to read the save files, and who created a fix to the butterfly quest bug
-- Thanks to [kaivar](https://www.nexusmods.com/hogwartslegacy/mods/832) for creating a fix for the 139/140 conjuration bug
-- Thanks to [lillaka](https://www.nexusmods.com/users/2211740) for not only giving me ideas to improve the mod, but actually implementing those ideas and giving me the code
+- Thanks to [ekaomk](https://github.com/ekaomk/Hogwarts-Legacy-Save-Editor), whose Hogwarts Legacy Save Editor code I looked at to learn how to read the save files, and who created a fix to the butterfly quest bug.
+- Thanks to [kaivar](https://www.nexusmods.com/hogwartslegacy/users/49715466) for creating a fix for the [139/140 conjuration bug](https://www.nexusmods.com/hogwartslegacy/mods/832) and the [butterfly bug](https://www.nexusmods.com/hogwartslegacy/mods/778).
+- Thanks to [lillaka](https://www.nexusmods.com/users/2211740) for not only giving me ideas to improve the mod, but actually implementing those ideas and giving me the code.
